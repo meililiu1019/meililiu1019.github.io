@@ -16,13 +16,17 @@ weight: 5
 |**2023**|
 |Zhang P, Yin ZY, Sheil B, 2023. Interpretable data-driven constitutive modelling of soils with sparse data. Computers and Geotechnics, 160, 105511|
 |Zhang P, Yin ZY, Sheil B, 2023. A physics-informed data-driven approach for consolidation analysis. Géotechnique, https://doi.org/10.1680/jgeot.22.00046 (☆75th Géotechnique Anniversary Early Career Award)|
+|He GF#, Zhang P*, Yin ZY, Jin YF, Yang Y, 2023. Multi-fidelity data-driven modelling of rate-dependent behaviour of soft clays. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 17:1, 64-76|
 
 |**2022**|
-|Pisner, D.A., Shumake, J., Beevers, C.G. & Schnyer, D.M. (2019). The Superior Longitudinal Fasciculus and its Functional Triple-Network Mechanisms in Brooding. Neuroimage: Clinical, 24,101935. doi:10.1016/j.nicl.2019.101935|
-|Gonzalez, G. D. S., & Schnyer, D. M. (2019). Attention and Working Memory Biases to Black and Asian Faces During Intergroup Contexts. Frontiers in Psychology, 9, 385. http://doi.org/10.3389/fpsyg.2018.02743.|
-|Mathews, M.D., & Schnyer, D.M. (Eds). Human Performance Optimization: The Science and Ethics of Enhancing Human Capabilities. (2019). Oxford University Press|
-|Wickwire, E. M., Albrecht, J. S., Griffin, N. R., Schnyer, D. M., Yue, J. K., Markowitz, A. J., Okonkwo, D. O., Valadka, A. B., Badjatia, N., Manley, G. T. (2019). Sleep disturbances precede depressive symptomatology following traumatic brain injury. Current Neurobiology, 10(2), 49-55.|
-|Yue, J.K, Cnossen, M.C., Winkler, E.A., Deng, H., Phelps, R.R.L., Coss, N., Sharma, S., Robinson, C.K., Suen, C.G., Vassar, M.J., Schnyer, D.M., Puccio, A.M., Gardner, R.C., Yuh, E.L., Mukherjee, P.,   Valadka, A.B., Okonkwo, D.O., Lingsma, H.F. and Manley, G.T. (Accepted). Preinjury comorbidities are associated with functional impairment and postconcussive symptoms at 3- and 6-months after mild traumatic brain injury: A TRACK-TBI study. Frontiers Neurology.|
+|Zhang P, Yin ZY, Jin YF, Sheil B, 2022. Physics-constrained hierarchical data-driven modelling framework for complex path‐dependent behaviour of soils. International Journal for Numerical and Analytical Methods in Geomechanics, 46(10), 1831-1850|
+|Zhang P, Yin ZY, Jin YF, 2022. Bayesian neural network-based uncertainty modelling: application to soil compressibility and undrained shear strength prediction. Canadian Geotechnical Journal, 59, 546-557 (☆ESI Highly Cited Paper)|
+|Zhang P, Yin ZY, Chen Q, 2022. Image-based 3D reconstruction of granular grains via hybrid algorithm and level set with convolution kernel. Journal of Geotechnical and Geoenvironmental Engineering-ASCE, 148(5), 04022021|
+|Zhang P, Yin ZY, Jin YF, Yang, J, Sheil B, 2022. Physics-informed multi-fidelity residual neural networks for hydromechanical modelling of granular soils and foundation considering internal erosion. Journal of Engineering Mechanics-ASCE, 148(4), 04022015 (☆Editor’s Choice)|
+|Zhang P, Yin ZY, Jin YF. 2022. Three-dimensional quantitative analysis on granular particle shape using convolutional neural network. International Journal for Numerical and Analytical Methods in Geomechanics, 46(1), 187-204 (☆Top Downloaded Paper 2021-2022)|
+|Zhang P, Yin ZY, Jin YF, 2022. Machine learning-based modelling of soil properties for geotechnical design: review, tool development and comparison. Archives of Computational Methods in Engineering, 29, 1229-1245|
+|Zhang P, Yin ZY, Jin YF, Liu XF. 2022. Modelling the mechanical behaviour of soils using machine learning algorithms with explicit formulations. Acta Geotechnica, 17, 1403-1422|
+|Shan F, He X, Armaghani DJ, Zhang P, Sheng D, Success and challenges in predicting TBM penetration rate using recurrent neural networks, Tunnelling and Underground Space Technology, 130, 104728|
 
 |**2018**|
 |Hsu, K. J., Caffey, K., Pisner, D., Shumake, J., Risom, S., Ray, K. L., Smits, J.A.J, Schnyer, D.M. & Beevers, C.G. (2018). Attentional bias modification treatment for depression: Study protocol for a randomized controlled trial. Contemporary Clinical Trials, 75, 59–66. http://doi.org/10.1016/j.cct.2018.10.014.|
