@@ -4,9 +4,11 @@ title: Publications
 permalink: /publications/
 weight: 5
 ---
+
+(*corresponding, #supervised)
 # __Publications__
 
-|**2021**|
+|**2024**|
 |1.	McNamara, M., Shumake, J., Stewart, R.A., Labrada, J., Alario, A., Allen, J.J.B., Palmer, R., Schnyer, D.M., McGeary, J. & Beevers, C.G. (2021). Multifactorial Prediction of Depression Diagnosis and Symptom Dimensions. Psychiatry Research.| 
 |Wu, C., Barczyk, A.N., Craddock, R., Harari, G.M., Thomaz, E., Shumake, J., Beevers, C., Gosling, S., & Schnyer, D.M. (2021). Improving Prediction of Real-Time Loneliness and Companionship Type Using Geosocial Features of Personal Smartphone Data. Smart Health.| 
 |Hsu, K.J., Shumake, J., Caffey, K., Risom, S., Labrada, J., Smits, J., Schnyer, D.M. & Beevers, C.G. (2021). Efficacy of Attention Bias Modification Training for Depressed Adults: A Randomized Clinical Trial. Psychological Medicine.|
