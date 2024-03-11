@@ -9,12 +9,12 @@ weight: 2
 <!-- This is for Science Discovery -->
 
 <p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/assets/research/SciDisSol.jpg" style="width: 100%; border: 2px solid black;"><font size="3">Explainable AI for Science</font></p>
-
 <p style="clear: both;">
   
 <!-- This is for Mechanics -->
 
 <p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/assets/research/Micro-Macro-Mechanics.gif" style="width: 100%; border: 2px solid black;"><font size="3">Micro- and Macro-scale Granular Mechanics</font></p>
+<p style="clear: both;">
 
 <!-- This is for Digital Twins -->
 
