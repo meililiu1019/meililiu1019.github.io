@@ -5,10 +5,12 @@ permalink: /people/
 weight: 3
 ---
 
+<!-- 
 <center><strong><font size="15"> Meet our team! </font></strong></center>
 
 ![Team picture](/assets/team2019.png)
 <hr>
+-->
 
 <!-- A template to either change your current profile on the People page OR to add in a new member. Simply copy and paste the lines of code below OR add in what you need. If you don't need some lines of code, remove them (aka social media links). Do not change the CSS.
 
@@ -54,10 +56,9 @@ weight: 3
 
 <img src="/assets/Gengfu_He_2021.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
 <h3 style="margin-bottom:0;"> <a href="/people/kimray/"> Geng-Fu HE </a></h3>
-<h5 style="margin-top:0; margin-bottom:0;"> 2022-Date: Ph.D at Sichuan Uni </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> 2022-Date: Ph.D at The Hong Kong Polytechnic Uni </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2017-2020: M.Sc at Sichuan Uni </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2013-2017: B.Sc at Sichuan Uni </h5>
-
 
 </div>
 
