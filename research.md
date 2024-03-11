@@ -6,6 +6,10 @@ weight: 2
 ---
 #### Our research is focused on the Cognitive Neuroscience of mental processes. Studies are approached using a broad range of methodological tools – human lesions, structural and functional MRI, and electrophysiology (MEG/EEG). 
 
+<!-- This is for Science Discovery -->
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/research/memory/"><img src="/assets/research/SciDisSol.jpg" style="width: 100%; border: 2px solid black;"></a><font size="3">Explainable AI for Science</font></p>
+
 <!-- This is for Memory -->
 
 <p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/research/memory/"><img src="/assets/research/Research_memory.jpg" style="width: 100%; border: 2px solid black;"></a><font size="3">Memory</font></p>
