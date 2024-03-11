@@ -10,7 +10,7 @@ weight: 5
 # __Books__
 |Yin ZY, Zhang P, Jin YF. 2024. Chapter 3, Uncertainty in constitutive models. Uncertainty, Modeling, and Decision Making in Geotechnics, edited by Kok-Kwang Phoon, Takayuki Shuku, Jianye Ching|
 
-# __Publications__
+# __Journal Papers__
 
 |**2024**|
 |Zhou ZH#, He GF#, Zhang P, Yin ZY, Jiang MJ. 2024. The potential of a multi-fidelity residual neural network based optimizer to calibrate DEM parameters of bonded granular materials. Computers and Geotechnics, 168, 106137| 
