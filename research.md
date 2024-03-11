@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 weight: 2
 ---
-#### Our research is focused on combining the Cognitive Neuroscience of mental processes. Studies are approached using a broad range of methodological tools – human lesions, structural and functional MRI, and electrophysiology (MEG/EEG). 
+#### Intelligent algorithms, computational mechanics, solid and fluid mechanics underpin our research. 
 
 <!-- This is for Science Discovery -->
 
