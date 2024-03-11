@@ -8,7 +8,11 @@ weight: 2
 
 <!-- This is for Science Discovery -->
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/research/memory/"><img src="/assets/research/SciDisSol.jpg" style="width: 100%; border: 2px solid black;"></a><font size="3">Explainable AI for Science</font></p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/research/memory/"><img src="/assets/research/SciDisSol.jpg" style="width: 100%; border: 2px solid black;"></a><font size="3">Explainable AI for Science</font></p>
+
+<!-- This is for Digital Twins -->
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/research/memory/"><img src="/assets/research/tunnel.gif" style="width: 100%; border: 2px solid black;"></a><font size="3">Digital Twins</font></p>
 
 <!-- This is for Memory -->
 
