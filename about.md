@@ -10,4 +10,7 @@ Our research is focused on developing explainable AI algorithms, intelligent com
 
 # Contact Us
 
-Ph.D., Master, & Undergraduate Students and Postdoc Opening: We are looking for Ph.D., Master, and undergraduate students, and Postdocs to work on science machine learning and advanced computational mechanics. Students in statistics, mathematics, computer science, engineering, or related majors with proficient coding skills are welcome to apply. Please feel free to contact me **dr.pin.zhang@gmail.com** with CV (and/or transcripts, publication list and representative papers highlighted) attached if you are interested.
+Ph.D., Master, & Undergraduate Students, Postdoc and Visiting Scholars/Students Opening: 
+We are looking for Ph.D. and Postdoc to work on science machine learning and advanced computational mechanics. Students in statistics, mathematics, computer science, engineering, or related majors with proficient coding skills are welcome to apply.
+Master, undergraduate students and Visiting Scholars/Students are also very welcome if you are interested in our research and we can do something different together.
+Please feel free to contact me **dr.pin.zhang@gmail.com** with CV (and/or transcripts, full publication list and representative papers highlighted, contacts of 2-3 referees) attached if you are interested.
