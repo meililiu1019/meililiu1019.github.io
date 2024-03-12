@@ -1,19 +1,16 @@
 ---
 layout: team-member
-person: "David M Schnyer, PhD"
-position: "Lab Director"
+person: "Pin ZHANG, PhD"
+position: "Pridential Young "
 image: "/assets/david-schnyer.png"
-github: Dschnyer
+github: PinZhang3
 googlescholar: 
 researchgate: David_Schnyer
 website: 
 orcid: 
 linkedin:
-email: schnyer@utexas.edu
-twitter: DMSchnyer
-permalink: /people/davidmschnyer/
+email: dr.pin.zhang@gmail.com
+permalink: /people/pinzhang/
 ---
 
-David Schnyer is a Professor in the Department of Psychology and the Institute for Neuroscience at the University of Texas, Austin. He completed a Ph.D. in Clinical Neuropsychology from the University of Arizona in 1998. In 2001, he was awarded an NIH K-award in multimodal neuroimaging techniques and trained at the Memory Disorders Research Center, Boston University School of Medicine. Work from Dr. Schnyer’s lab has been published in high profile journals, including Nature, Nature Neuroscience, Journal of Neuroscience, Sleep, Neuroimage and Annals of Neurology. All work has been funded through grants from NIH, DOD and Department of the Army.
-
-Click [here](/courses/) to check out the full list of classes that Dr. Schnyer teaches at UT Austin.
+Pin ZHANG is a Assistant Professor under the [Presidential Young Professorship](https://cde.nus.edu.sg/ece/about-us/careers-ece/presidential-young-professorship/) in the Department of Civl and Environmental Engineering at National University of Singapore (NUS). Before joining NUS, Dr ZHANG worked at the University of Cambridge as a Royal Society Newton International Fellow (2022-2024). He completed a Ph.D. from the Hong Kong Polytechnic University (PolyU) in 2022, including one year at the University of Oxford as a visiting scholar. New knowledge is demonstrated by publications in high-impact journals such as [Géotechnique](https://www.icevirtuallibrary.com/toc/jgeot/current), [JGGE](https://ascelibrary.org/journal/jggefk) and [CMAME](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering). Two journal papers were recognized as Editor’s Choice from *JEM-ASCE* and *FSCE*, and five papers were recognized as the journal’s top cited/downloaded. Dr ZHANG was also the recipient of Early Career Award from Institution of Civil Engineers, Turing Network Development Award, Ringo Yu Prize from The Hong Kong Institution of Engineers, PolyU PhD thesis-Merit Award, Hunan Provincial Outstanding Master's Dissertation and Hunan University Outstanding Graduate.
