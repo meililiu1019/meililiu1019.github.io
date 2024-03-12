@@ -5,7 +5,7 @@ position: "Pridential Young "
 image: "/assets/david-schnyer.png"
 github: PinZhang3
 googlescholar: 
-researchgate: David_Schnyer
+researchgate: Pin-Zhang-3
 website: 
 orcid: 
 linkedin:
