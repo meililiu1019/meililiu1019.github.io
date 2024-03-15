@@ -2,7 +2,7 @@
 layout: team-member
 person: "Pin ZHANG, PhD"
 position: "Principal Investigator"
-image: "/assets/david-schnyer.png"
+image: "/assets/Pin_Zhang.jpg"
 github: PinZhang3
 googlescholar: 
 researchgate: Pin-Zhang-3
