@@ -38,7 +38,7 @@ weight: 3
 
 <div>
 
-<img src="/assets/david-schnyer.png" hspace="10" style="width:150px; height:200px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/assets/Pin_Zhang.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
 <h3 style="margin-bottom:0;"> <a href="/people/pinzhang/"> Pin ZHANG </a></h3>
 <h5 style="margin-top:0; margin-bottom:0;"> Principal Investigator </h5>
 <a href="mailto: dr.pin.zhang@gmail.com"><i class="fas fa-envelope-square fa-lg"></i></a>
