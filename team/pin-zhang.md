@@ -24,17 +24,6 @@ Dr ZHANG was also the recipient of Early Career Award from Institution of Civil 
 05/2023, Member of Organising Committee, Workshop on Information Modelling and Knowledge Management for Autonomous Mining and Construction, Birmingham, UK  
 11/2022: Chair, ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications, HK  
 
-# __Invited Speakers__
-08/2023, 4th International Symposium on Machine Learning & Big Data in Geoscience, Cork, Ireland  
-06/2023: ECCOMAS 7th Young Investigators Conference, Porto, Portugal  
-05/2023: 3SR Laboratory, University of Grenoble, France‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬  
-02/2023: Centre for Smart Infrastructure and Construction, University of Cambridge, UK  
-08/2022: Department of Mechanical and Industrial Engineering, Northeastern University, USA  
-05/2022: School of Civil Engineering, Hunan University, China  
-04/2022: Department of Chemical and Biomolecular Engineering, University of Pennsylvania, USA  
-07/2021: The 1st International Symposium on Marine Science and Engineering for Young Scientists and Postgraduates, Guangzhou, China  
-12/2020: The 24th Annual Conference of HKSTAM 2020 / The 16th Shanghai – Hong Kong Forum on Mechanics and Its Application, Hong Kong  
-
 # __Service__
 Member of the British Geotechnical Association  
 Corresponding member of TC105 Geo-Mechanics from Micro to Macro, ISSMGE  
@@ -42,6 +31,9 @@ Nominated member of TC222 Geotechnical BIM and DT, ISSMGE
 Nominated member of TC309 Machine Learning and Big Data, ISSMGE  
 
 2023: Guest Editor of a special issue of “Data-Centric Engineering (Cambridge)”
+
+**Grant Reviewer**  
+Natural Sciences and Engineering Research Council of Canada (NSERC)
 
 # __Awards & Honours__
 10/2023: World's Top 2% Scientists, Stanford University  
