@@ -48,7 +48,6 @@ weight: 3
 
 </div>
 
-<p style="clear: both;">
 # __PhD students__
 <!-- Geng-Fu HE -->
 
