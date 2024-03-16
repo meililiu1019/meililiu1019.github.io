@@ -40,10 +40,10 @@ Member of the British Geotechnical Association
 Corresponding member of TC105 Geo-Mechanics from Micro to Macro, ISSMGE  
 Nominated member of TC222 Geotechnical BIM and DT, ISSMGE  
 Nominated member of TC309 Machine Learning and Big Data, ISSMGE  
-<p style="clear: both;">
+
 2023: Guest Editor of a special issue of “Data-Centric Engineering (Cambridge)”
 
-# __Honours__
+# __Awards & Honours__
 10/2023: World's Top 2% Scientists, Stanford University  
 10/2023: PolyU PhD Thesis Award 2023 – Merit Award (3 recipients from all PhDs at PolyU in 2022), PolyU  
 04/2023: 75th Géotechnique Anniversary Early Career Award, Géotechnique  
