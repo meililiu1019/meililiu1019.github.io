@@ -4,7 +4,7 @@ person: "Pin ZHANG, PhD"
 position: "Principal Investigator"
 email: dr.pin.zhang@gmail.com
 googlescholar: https://scholar.google.com/citations?user=_4-M1mYAAAAJ&hl=en
-linkedin: pin-zhang-086579278
+linkedin: https://www.linkedin.com/in/pin-zhang-086579278/
 github: PinZhang3
 researchgate: Pin-Zhang-3
 website: 
@@ -43,7 +43,7 @@ Nominated member of TC309 Machine Learning and Big Data, ISSMGE
 <p style="clear: both;">
 2023: Guest Editor of a special issue of “Data-Centric Engineering (Cambridge)”
 
-# __Awards & Honours__
+# __Honours__
 10/2023: World's Top 2% Scientists, Stanford University  
 10/2023: PolyU PhD Thesis Award 2023 – Merit Award (3 recipients from all PhDs at PolyU in 2022), PolyU  
 04/2023: 75th Géotechnique Anniversary Early Career Award, Géotechnique  
