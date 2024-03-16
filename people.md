@@ -47,7 +47,7 @@ weight: 3
 <a href="https://github.com/PinZhang3" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
 
 </div>
-<p style="clear: both;">
+
 
 <div>
   
