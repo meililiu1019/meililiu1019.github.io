@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Publication
 permalink: /publications/
 weight: 4
 ---
