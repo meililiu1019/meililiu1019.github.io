@@ -20,12 +20,6 @@ New knowledge is demonstrated by publications in high-impact journals such as [G
 
 Dr ZHANG was also the recipient of Early Career Award from Institution of Civil Engineers, Turing Network Development Award, Ringo Yu Prize from The Hong Kong Institution of Engineers, PolyU PhD thesis-Merit Award, Hunan Provincial Outstanding Master's Dissertation and Hunan University Outstanding Graduate.
 
-# __Organization of Conferences__
-12/2023: Chair, Mini-symposium ‘Big Data and Artificial Intelligence in Geotechnics’ of International Symposium on Innovations in Geotechnical Engineering towards Sustainability, HK  
-05/2023: Member of Organising Committee, Workshop of Alan Turing Network for AI in Geotechnics, Glasgow, UK  
-05/2023, Member of Organising Committee, Workshop on Information Modelling and Knowledge Management for Autonomous Mining and Construction, Birmingham, UK  
-11/2022: Chair, ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications, HK  
-
 # __Service__
 Member of the British Geotechnical Association  
 Corresponding member of TC105 Geo-Mechanics from Micro to Macro, ISSMGE  
@@ -36,6 +30,12 @@ Nominated member of TC309 Machine Learning and Big Data, ISSMGE
 
 **Grant Reviewer**  
 Natural Sciences and Engineering Research Council of Canada (NSERC)
+
+# __Organization of Conferences__
+12/2023: Chair, Mini-symposium ‘Big Data and Artificial Intelligence in Geotechnics’ of International Symposium on Innovations in Geotechnical Engineering towards Sustainability, HK  
+05/2023: Member of Organising Committee, Workshop of Alan Turing Network for AI in Geotechnics, Glasgow, UK  
+05/2023, Member of Organising Committee, Workshop on Information Modelling and Knowledge Management for Autonomous Mining and Construction, Birmingham, UK  
+11/2022: Chair, ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications, HK  
 
 # __Awards & Honours__
 10/2023: World's Top 2% Scientists, Stanford University  
