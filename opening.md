@@ -2,7 +2,7 @@
 layout: page
 title: Opening
 permalink: /opening/
-weight: 2
+weight: 5
 ---
 
 # __PhD Scholarships__
