@@ -12,6 +12,6 @@ Our research is focused on developing explainable AI algorithms, intelligent com
 
 We are looking for Ph.D. and Postdoc to work on science machine learning, advanced computational mechanics and geotechnical engineering. Students in applied mathematics, computer science, mechanics, geotechnical engineering or related majors are welcome to apply.
 
-Master, undergraduate students and Visiting scholars are also very welcome if you are interested in our research and we can do something different together.
+Master, undergraduate students and visiting scholars are also very welcome if you are interested in our research and we can do something different together.
 
 Please feel free to contact me **dr.pin.zhang@gmail.com** with CV (and/or transcripts, full publication list and representative papers highlighted, contacts of 2-3 referees) attached if you are interested. The subject of email please follow **'position + current affiliation + name'**.
