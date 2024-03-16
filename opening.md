@@ -12,7 +12,7 @@ If you are interested in joining us and applying for the scholarships/fellowship
 [PhD scholarship list from NUS Graduate School](https://nusgs.nus.edu.sg/scholarships-list/)  
 [China Scholarship Council](https://www.csc.edu.cn/chuguo)
 
-# __Postdoc Fellowship__
+# __Postdoc Fellowships__
 [Lee Kuan Yew Postdoctoral Fellowship](https://www.nus.edu.sg/research/research-management/funding-opportunities/lee-kuan-yew-postdoctoral-fellowship)  
 [China Scholarship Council](https://www.csc.edu.cn/chuguo)
 
