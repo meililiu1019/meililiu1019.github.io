@@ -2,14 +2,15 @@
 layout: team-member
 person: "Pin ZHANG, PhD"
 position: "Principal Investigator"
-image: "/assets/Pin_Zhang.jpg"
+email: dr.pin.zhang@gmail.com
+googlescholar: https://scholar.google.com/citations?user=_4-M1mYAAAAJ&hl=en
+linkedin: pin-zhang-086579278
 github: PinZhang3
-googlescholar: 
 researchgate: Pin-Zhang-3
 website: 
 orcid: 
-linkedin:
-email: dr.pin.zhang@gmail.com
+
+
 permalink: /people/pinzhang/
 ---
 
