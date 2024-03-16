@@ -10,7 +10,7 @@ Our research is focused on developing explainable AI algorithms, intelligent com
 
 # Contact Us
 
-We are looking for Ph.D. and Postdoc to work on science machine learning, advanced computational mechanics and geotechnical engineering. Students in applied mathematics, computer science, mechanics, geotechnical engineering or related majors are welcome to apply.
+We are looking for Ph.D and Postdoc to work on science machine learning, advanced computational mechanics and geotechnical engineering. Students in applied mathematics, computer science, mechanics, geotechnical engineering or related majors are welcome to apply.
 
 Master, undergraduate students and visiting scholars are also very welcome if you are interested in our research and we can do something different together.
 
