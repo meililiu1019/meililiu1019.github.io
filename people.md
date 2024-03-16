@@ -51,7 +51,7 @@ weight: 3
 
 <div>
   
-# __PhD students__
+# __PhD students__ #
 
 </div>
 
