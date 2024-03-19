@@ -14,9 +14,9 @@ orcid:
 permalink: /people/pinzhang/
 ---
 # __Bio__
-Pin ZHANG will be an Assistant Professor under the [Presidential Young Professorship](https://cde.nus.edu.sg/ece/about-us/careers-ece/presidential-young-professorship/) in the Department of Civl and Environmental Engineering at National University of Singapore (NUS). Before joining NUS, Dr ZHANG worked at the University of Cambridge as a Royal Society Newton International Fellow (2022-2024). He completed a Ph.D. from the Hong Kong Polytechnic University (PolyU) in 2022, including one year at the University of Oxford as a visiting scholar.  
+Pin ZHANG will be an Assistant Professor under the [Presidential Young Professorship](https://cde.nus.edu.sg/ece/about-us/careers-ece/presidential-young-professorship/) in the Department of Civl and Environmental Engineering at National University of Singapore (NUS). Before joining NUS, Dr ZHANG worked at the University of Cambridge as the Royal Society Newton International Fellow (2022-2024). He completed the Ph.D. from the Hong Kong Polytechnic University (PolyU) in 2022, including one year at the University of Oxford as a visiting scholar.  
 
-New knowledge is demonstrated by publications in high-impact journals such as [Géotechnique](https://www.icevirtuallibrary.com/toc/jgeot/current), [JGGE](https://ascelibrary.org/journal/jggefk) and [CMAME](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering). Two journal papers were recognized as Editor’s Choice from *JEM-ASCE* and *FSCE*, and five papers were recognized as the journal’s top cited/downloaded.  
+New knowledge is demonstrated by publications in high-impact journals such as [Géotechnique](https://www.icevirtuallibrary.com/toc/jgeot/current), [JGGE](https://ascelibrary.org/journal/jggefk) and [CMAME](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering). Two journal papers were recognized as Editor’s Choice by *JEM-ASCE* and *FSCE*, and five papers were recognized as the journal’s top cited/downloaded.  
 
 Dr ZHANG was also the recipient of Early Career Award from Institution of Civil Engineers, Turing Network Development Award, Ringo Yu Prize from The Hong Kong Institution of Engineers, PolyU PhD thesis-Merit Award, Hunan Provincial Outstanding Master's Dissertation and Hunan University Outstanding Graduate.
 
@@ -32,6 +32,7 @@ Nominated member of TC309 Machine Learning and Big Data, ISSMGE
 Natural Sciences and Engineering Research Council of Canada (NSERC)
 
 # __Organization of Conferences__
+06/2025: Chair, Mini-symposium ‘Machine Learning, Data, and Physics in Geotechnics’ of 9th International Symposium for Geotechnical Safety and Risk, Oslo, Norway
 12/2023: Chair, Mini-symposium ‘Big Data and Artificial Intelligence in Geotechnics’ of International Symposium on Innovations in Geotechnical Engineering towards Sustainability, HK  
 05/2023: Member of Organising Committee, Workshop of Alan Turing Network for AI in Geotechnics, Glasgow, UK  
 05/2023, Member of Organising Committee, Workshop on Information Modelling and Knowledge Management for Autonomous Mining and Construction, Birmingham, UK  
