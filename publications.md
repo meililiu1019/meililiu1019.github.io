@@ -64,7 +64,7 @@ weight: 4
 |**2018**|
 |Chen RP, Lin XT, Kang X, Zhong ZQ, Liu Y, Zhang P, 2018, Deformation and stress characteristics of existing twin tunnels induced by close-distance EPBS under-crossing. Tunnelling and Underground Space Technology, 82, 468-481|
 
-# __Conference Paperss__
+# __Conference Papers__
 
 |Zhang P, Sheil B, Yin ZY, 2023, Physics-informed data-driven modelling of caisson foundations. The 4th International Symposium on Machine Learning & Big Data in Geoscience, Ireland|
 |He GF#, Zhang P,Yin ZY, 2022, Data-driven modelling of rate-dependent behaviour of soft clays. The 25th Annual Conference of HKSTAM 2022 The 17th Jiangsu – Hong Kong Forum on Mechanics and Its Application, , Hong Kong SAR|
