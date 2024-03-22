@@ -44,7 +44,7 @@ Natural Sciences and Engineering Research Council of Canada (NSERC)
 10/2023: PolyU PhD Thesis Award 2023 – Merit Award (3 recipients from all PhDs at PolyU in 2022), PolyU  
 04/2023: 75th Géotechnique Anniversary Early Career Award, Géotechnique  
 03/2023: Ringo Yu Prize, Best PhD Thesis (only 1 recipient at PolyU in 2022), The Hong Kong Institution of Engineers  
-03/2023: Turing Network Development Award, The Alan Turing Institute, UK
+03/2023: Turing Network Development Award, The Alan Turing Institute, UK  
 03/2023: Top Cited/Downloaded Article, Int. J. Numer. Anal. Methods Geomech. (Wiley)  
 09/2022: Newton International Fellowship (15 global researchers awarded in 2022), Royal Society, UK
 08/2022: JSPS Postdoctoral Fellowship, Japan Society for the Promotion of Science, Japan   
