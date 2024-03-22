@@ -39,6 +39,7 @@ Natural Sciences and Engineering Research Council of Canada (NSERC)
 11/2022: Chair, ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications, HK  
 
 # __Awards & Honours__
+03/2024: Top Downloaded Article, Int. J. Numer. Anal. Methods Geomech. (Wiley)  
 10/2023: World's Top 2% Scientists, Stanford University  
 10/2023: PolyU PhD Thesis Award 2023 – Merit Award (3 recipients from all PhDs at PolyU in 2022), PolyU  
 04/2023: 75th Géotechnique Anniversary Early Career Award, Géotechnique  
