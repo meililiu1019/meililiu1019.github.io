@@ -18,6 +18,7 @@ If you are interested in joining us and applying for the scholarships/fellowship
 
 # __Visiting Scholar__
 [NUS Fellows Programme (Southeast Asia)](https://www.nus.edu.sg/research/funding-opportunities/NUS-fellows-programme-southeast-asia)  
+[Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://nus.edu.sg/research/research-management/funding-opportunities/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship)
 [China Scholarship Council](https://www.csc.edu.cn/chuguo)
 
 
