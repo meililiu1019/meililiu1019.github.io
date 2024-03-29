@@ -32,7 +32,7 @@ Nominated member of TC309 Machine Learning and Big Data, ISSMGE
 Natural Sciences and Engineering Research Council of Canada (NSERC)
 
 # __Organization of Conferences__
-06/2025: Chair, Mini-symposium ‘Machine Learning, Data, and Physics in Geotechnics’ of 9th International Symposium for Geotechnical Safety and Risk, Oslo, Norway
+06/2025: Chair, Mini-symposium ‘Machine Learning, Data, and Physics in Geotechnics’ of 9th International Symposium for Geotechnical Safety and Risk, Oslo, Norway  
 12/2023: Chair, Mini-symposium ‘Big Data and Artificial Intelligence in Geotechnics’ of International Symposium on Innovations in Geotechnical Engineering towards Sustainability, HK  
 05/2023: Member of Organising Committee, Workshop of Alan Turing Network for AI in Geotechnics, Glasgow, UK  
 05/2023, Member of Organising Committee, Workshop on Information Modelling and Knowledge Management for Autonomous Mining and Construction, Birmingham, UK  
