@@ -14,7 +14,7 @@ orcid:
 permalink: /people/pinzhang/
 ---
 # __Bio__
-Pin ZHANG will be an Assistant Professor under the [Presidential Young Professorship](https://cde.nus.edu.sg/ece/about-us/careers-ece/presidential-young-professorship/) in the Department of Civil and Environmental Engineering at the National University of Singapore (NUS). Before joining NUS, Dr ZHANG worked at the University of Cambridge as the Royal Society Newton International Fellow (2022-2024). He completed the Ph.D. from the Hong Kong Polytechnic University (PolyU) in 2022, including one year at the University of Oxford as a visiting scholar.  
+Pin ZHANG will be an Assistant Professor under the [Presidential Young Professorship](https://www.nus.edu.sg/careers/wp-content/uploads/2024/01/NUS-Presidential-Young-Professorship-STEM22.pdf) in the Department of Civil and Environmental Engineering at the National University of Singapore (NUS). Before joining NUS, Dr ZHANG worked at the University of Cambridge as the Royal Society Newton International Fellow (2022-2024). He completed the Ph.D. from the Hong Kong Polytechnic University (PolyU) in 2022, including one year at the University of Oxford as a visiting scholar.  
 
 New knowledge is demonstrated by publications in high-impact journals such as [Géotechnique](https://www.icevirtuallibrary.com/toc/jgeot/current), [JGGE](https://ascelibrary.org/journal/jggefk) and [CMAME](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering). Two journal papers were recognized as Editor’s Choice by *JEM-ASCE* and *FSCE*, and five papers were recognized as the journal’s top cited/downloaded.  
 
