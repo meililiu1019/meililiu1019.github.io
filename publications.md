@@ -14,6 +14,7 @@ weight: 4
 # __Journal Papers__
 
 |**2024**|
+|Lin, W#, Sheil, B, Zhang, P, Zhou, B, Xie, X. Seg2Tunnel: A hierarchical point cloud dataset and benchmarks for segmentation of segmental tunnel linings. Tunnelling & Underground Space Technology, 147, 105735| 
 |Zhou ZH#, He GF#, Zhang P, Yin ZY, Jiang MJ. 2024. The potential of a multi-fidelity residual neural network based optimizer to calibrate DEM parameters of bonded granular materials. Computers and Geotechnics, 168, 106137| 
 |Chen XX#, Zhang P*, Yin ZY. 2024. Physics-informed neural network solver for numerical analysis in geoengineering, Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 18(1): 33-51| 
 |Zhang P, Yin ZY, Sheil B, 2024. Multifidelity constitutive modeling of stress-induced anisotropic behavior of clay, Journal of Geotechnical and Geoenvironmental Engineering-ASCE, 150(3), 04024003|
