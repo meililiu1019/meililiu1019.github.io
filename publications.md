@@ -14,6 +14,9 @@ weight: 4
 # __Journal Papers__
 
 |**2024**|
+|Zhang P*, Sheil B, Girolami M, Yaji K, Yin ZY. 2023. A novel consolidation analysis framework: universal function approximators regularized by physical principles. Canadian Geotechnical Journal (Accept)|  
+|Wang MX, Leung YF, Wang G, Zhang, P, 2024. Semi-Empirical Predictive Models for Seismically-Induced Slope Displacements Considering Ground Motion Directionality. Journal of Geotechnical and Geoenvironmental Engineering-ASCE (Accepted)|  
+|He GF#, Zhang P*, Yin ZY, Goh SH, 2024. Multi-fidelity based Gaussian Process for quasi-site-specific probabilistic prediction of soil properties. Canadian Geotechnical Journal (Accepted)|  
 |Lin, W#, Sheil, B, Zhang, P, Zhou, B, Xie, X, 2024. Seg2Tunnel: A hierarchical point cloud dataset and benchmarks for segmentation of segmental tunnel linings. Tunnelling & Underground Space Technology, 147, 105735| 
 |Zhou ZH#, He GF#, Zhang P, Yin ZY, Jiang MJ, 2024. The potential of a multi-fidelity residual neural network based optimizer to calibrate DEM parameters of bonded granular materials. Computers and Geotechnics, 168, 106137| 
 |Chen XX#, Zhang P*, Yin ZY, 2024. Physics-informed neural network solver for numerical analysis in geoengineering, Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 18(1): 33-51| 
