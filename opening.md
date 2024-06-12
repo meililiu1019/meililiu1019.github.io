@@ -15,8 +15,8 @@ If you are interested in joining us and applying for the scholarships/fellowship
 # __Postdoc Fellowships__
 [SG Academies South-East Asia Fellowship (SASEAF) Programme](https://snas.org.sg/saseaf)  
 [NUS Fellows Programme (Southeast Asia)](https://www.nus.edu.sg/research/funding-opportunities/NUS-fellows-programme-southeast-asia)  
-[Lee Kuan Yew Postdoctoral Fellowship](https://www.nus.edu.sg/research/research-management/funding-opportunities/lee-kuan-yew-postdoctoral-fellowship)  
-[Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://nus.edu.sg/research/research-management/funding-opportunities/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship)  
+[Lee Kuan Yew Postdoctoral Fellowship](https://www.nus.edu.sg/research/research-administration-and-shared-services/funding-opportunities-old/lee-kuan-yew-postdoctoral-fellowship)  
+[Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.nus.edu.sg/research/odprt-home/fellowships/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship)  
 [China Scholarship Council](https://www.csc.edu.cn/chuguo)
 
 # __Visiting Scholar__
