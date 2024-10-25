@@ -15,16 +15,20 @@ weight: 4
 
 |**2024**|
 |Zhang P*, Sheil B, Girolami M, Yaji K, Yin ZY. 2024. A novel consolidation analysis framework: universal function approximators regularized by physical principles. Canadian Geotechnical Journal (Accept)|  
-|Wang MX, Leung YF, Wang G, Zhang P, 2024. Semi-Empirical Predictive Models for Seismically-Induced Slope Displacements Considering Ground Motion Directionality. Journal of Geotechnical and Geoenvironmental Engineering-ASCE (Accepted)|  
-|He GF#, Zhang P*, Yin ZY, Goh SH, 2024. Multi-fidelity based Gaussian Process for quasi-site-specific probabilistic prediction of soil properties. Canadian Geotechnical Journal (Accepted)|  
+|Li R#, Zhang P*, Yin ZY, Sheil B. Enhanced hybrid algorithms for segmentation and reconstruction of granular grains from X-Ray micro computed-tomography images. International Journal for Numerical and Analytical Methods in Geomechanics (Accepted)|  
+|He GF#, Zhang P*, Yin ZY, 2024. Active learning inspired multi-fidelity probabilistic modelling of geomaterial property. Computer Methods in Applied Mechanics and Engineering, 432, 117373|  
+|He GF#, Zhang P*, Yin ZY, Goh SH, 2024. Multi-fidelity based Gaussian Process for quasi-site-specific probabilistic prediction of soil properties. Canadian Geotechnical Journal, 61(10), 2304-2322|  
+|Zhang P*, Sheil B, Cheng Q. Multi-fidelity learned emulator for waves and porous coastal structures interaction modelling. Computers and Geotechnics, 176, 106718| 
+|Wang MX, AYF Leung, Wang G, Zhang P, 2024. Semiempirical predictive models for seismically induced slope displacements considering ground motion directionality. Journal of Geotechnical and Geoenvironmental Engineering-ASCE, 150(9), 04024080|  
+|Qiu Y#, Zhang N, Yin ZY, Wang Y, Xu C, Zhang P, 2024. Novel multi-spatial receptive field (MSRF) XGBoost method for predicting geological cross-section based on sparse borehole data, Engineering Geology, 338, 107604|  
 |Lin, W#, Sheil, B, Zhang, P, Zhou, B, Xie, X, 2024. Seg2Tunnel: A hierarchical point cloud dataset and benchmarks for segmentation of segmental tunnel linings. Tunnelling & Underground Space Technology, 147, 105735| 
 |Zhou ZH#, He GF#, Zhang P, Yin ZY, Jiang MJ, 2024. The potential of a multi-fidelity residual neural network based optimizer to calibrate DEM parameters of bonded granular materials. Computers and Geotechnics, 168, 106137| 
 |Chen XX#, Zhang P*, Yin ZY, 2024. Physics-informed neural network solver for numerical analysis in geoengineering, Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 18(1): 33-51| 
 |Zhang P, Yin ZY, Sheil B, 2024. Multifidelity constitutive modeling of stress-induced anisotropic behavior of clay, Journal of Geotechnical and Geoenvironmental Engineering-ASCE, 150(3), 04024003|
+|Zhang P, Yin ZY, Sheil B, 2024. A physics-informed data-driven approach for consolidation analysis. Géotechnique, 74(7), 620-631 (☆75th Géotechnique Anniversary Early Career Award)|
 
 |**2023**|
 |Zhang P, Yin ZY, Sheil B, 2023. Interpretable data-driven constitutive modelling of soils with sparse data. Computers and Geotechnics, 160, 105511|
-|Zhang P, Yin ZY, Sheil B, 2023. A physics-informed data-driven approach for consolidation analysis. Géotechnique, https://doi.org/10.1680/jgeot.22.00046 (☆75th Géotechnique Anniversary Early Career Award)|
 |He GF#, Zhang P*, Yin ZY, Jin YF, Yang Y, 2023. Multi-fidelity data-driven modelling of rate-dependent behaviour of soft clays. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 17:1, 64-76|
 
 |**2022**|
