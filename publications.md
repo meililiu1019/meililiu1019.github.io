@@ -14,7 +14,7 @@ weight: 4
 # __Journal Papers__
 
 |**2024**|
-|Zhang P*, Sheil B, Girolami M, Yaji K, Yin ZY, 2024. A novel consolidation analysis framework: universal function approximators regularized by physical principles. **Canadian Geotechnical Journal** (Accept)|  
+|Zhang P*, Sheil B, Girolami M, Yaji K, Yin ZY, 2024. A novel consolidation analysis framework: universal function approximators regularized by physical principles. **Canadian Geotechnical Journal** (Accepted)|  
 |Li R#, Zhang P*, Yin ZY, Sheil B, 2024 Enhanced hybrid algorithms for segmentation and reconstruction of granular grains from X-Ray micro computed-tomography images. International Journal for Numerical and Analytical Methods in Geomechanics (Accepted)|  
 |He GF#, Zhang P*, Yin ZY, 2024. Active learning inspired multi-fidelity probabilistic modelling of geomaterial property. **Computer Methods in Applied Mechanics and Engineering**, 432, 117373|  
 |He GF#, Zhang P*, Yin ZY, Goh SH, 2024. Multi-fidelity based Gaussian Process for quasi-site-specific probabilistic prediction of soil properties. **Canadian Geotechnical Journal**, 61(10), 2304-2322|  
