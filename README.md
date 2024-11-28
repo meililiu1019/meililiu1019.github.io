@@ -2,7 +2,7 @@
 
 Dr. Meili (Mandy) Liu is postdoc at University of Miami.
 
-# About Our Website
+# About Website
 
 **All commits to the website should be made to the master branch.**
 
