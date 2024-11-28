@@ -18,8 +18,8 @@ email: mxl2120@miami.edu
 description: >- # this means to ignore newlines until "baseurl:"  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: 
-github_username:  
+linkedin_username: meili-mandy-liu-207380236
+github_username: meililiu1019
 
 # Build settings
 markdown: kramdown
