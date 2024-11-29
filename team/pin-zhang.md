@@ -40,7 +40,7 @@ Natural Sciences and Engineering Research Council of Canada (NSERC)
 11/2022: Chair, ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications, HK  
 
 # __Awards & Honours__
-Dec. 2020 First-Class Scholarship for Ph.D., Beijing Normal University
+<li>Dec. 2020 First-Class Scholarship for Ph.D., Beijing Normal University</li>
 Dec. 2019 First-Class Scholarship for Ph.D., Beijing Normal University
 Sep. 2019 Scholarship from the China Scholarship Council (top 1.6 %), Beijing Normal University 
 Oct. 2018 The Social Practice Scholarship, Beijing Normal University
