@@ -33,12 +33,8 @@ Nominated member of TC309 Machine Learning and Big Data, ISSMGE
 Natural Sciences and Engineering Research Council of Canada (NSERC)
 
 # __Organization of Conferences__
-06/2025: Chair, Mini-symposium ‘Machine Learning, Data, and Physics in Geotechnics’ of 9th International Symposium for Geotechnical Safety and Risk, Oslo, Norway  
-12/2023: Chair, Mini-symposium ‘Big Data and Artificial Intelligence in Geotechnics’ of International Symposium on Innovations in Geotechnical Engineering towards Sustainability, HK  
-05/2023: Member of Organising Committee, Workshop of Alan Turing Network for AI in Geotechnics, Glasgow, UK  
-05/2023, Member of Organising Committee, Workshop on Information Modelling and Knowledge Management for Autonomous Mining and Construction, Birmingham, UK  
-11/2022: Chair, ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications, HK  
-
+<p><font size=4>March/2025t: Member of Organising Committee, <a href="https://lnkd.in/g8tHQ_xS"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) to be held at the Newman Alumni Center, University of Miami, Coral Gables, Florida, March 2 to 5, 2025.</a></p>
+         
 # __Awards & Honours__
 <li>Dec. 2020 First-Class Scholarship for Ph.D., Beijing Normal University</li>
 <li>Dec. 2019 First-Class Scholarship for Ph.D., Beijing Normal University</li>
