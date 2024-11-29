@@ -50,6 +50,8 @@ Dr. Liu earned a joint Ph.D. in Chemistry, specializing in Physical Chemistry, f
 <li>Structural Laboratory (CAE 212); University of Miami, Undergraduate level.</li>
 <li>Molecular Simulation of Materials (CAE 729); University of Miami, Graduated level.</li>
 
+<br> <!-- 强制换行 -->
+
 **Teaching Assistant**
 
 <li>Materials Chemistry; Beijing Normal University, Undergraduate level.</li>
