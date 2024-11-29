@@ -29,9 +29,7 @@ Dr. Liu earned a joint Ph.D. in Chemistry, specializing in Physical Chemistry, f
 **Volunteer for Conference**
 <li>ACS 28th Annual Green Chemistry & Engineering Conference, June 2-5, 2024, Atlanta, GA & Hybrid. (Innovation Hub Ambassador, Technical Session Assistant, Keynote Assistant)</li>
 <li>ACI concrete Convention, November 3-7, 2024, Marriott Philadelphia Downtown, Philadelphia, PA United States. (Judges for Student Poster Session)</li>
-
-<br> <!-- 强制换行 -->
-
+<br> <!-- 强制换行 --
 **Review**
 
 <p>More than 88 times, for journals including Nanomaterials, Frontiers in Microbiology, International Journal of Molecular Sciences, Computational and Theoretical Chemistry, Molecules, etc.</p>
@@ -41,7 +39,7 @@ Dr. Liu earned a joint Ph.D. in Chemistry, specializing in Physical Chemistry, f
 <li>ACS: American Chemical Society</li>
 <li>South Miami ACI</li>
 <li>ACers: The American Ceramic Society</li>
-
+<br> <!-- 强制换行 -->
 
 # __TEACHING EXPERIENCE AND INTERST__
 **Guest Lecturer**
