@@ -13,7 +13,7 @@ weight: 2
 
 <!-- This is for Intelligent CM -->
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/assets/research/FF.gif" style="width: 100%; border: 2px solid black;"><font size="3">Intelligent Computational Mechanics</font></p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/assets/research/FF.jpg" style="width: 100%; border: 2px solid black;"><font size="3">Intelligent Computational Mechanics</font></p>
 <p style="clear: both;">
   
 <!-- This is for Mechanics -->
