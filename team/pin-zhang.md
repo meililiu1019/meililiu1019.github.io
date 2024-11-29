@@ -15,16 +15,14 @@ orcid: https://orcid.org/0009-0009-5324-2779
 permalink: /people/pinzhang/
 ---
 # __Bio__
-[Meili (Mandy) Liu](https://cde.nus.edu.sg/cee/staff/zhangpin/) is the Post-Doctoral Associate under the [Presidential Young Professorship](https://www.nus.edu.sg/careers/nus-programmes/) in the Department of Civil and Environmental Engineering at University of Miami (UM). Before joining UM, Dr. Liu worked at the University of Cambridge as the Royal Society Newton International Fellow (2022-2024). He completed the Ph.D. from the Hong Kong Polytechnic University (PolyU) in 2022, including one year at the University of Oxford as a visiting scholar.  
+[Meili (Mandy) Liu](https://cde.nus.edu.sg/cee/staff/zhangpin/) is the Post-Doctoral Associate under the [Presidential Young Professorship](https://www.nus.edu.sg/careers/nus-programmes/) in the Department of Civil and Environmental Engineering at University of Miami (UM). Before joining UM, Dr. Liu worked at the University of Cambridge as the Royal Society Newton International Fellow (2022-2024). She completed the Ph.D. from the Hong Kong Polytechnic University (PolyU) in 2022, including one year at the University of Oxford as a visiting scholar.  
 
-New knowledge is demonstrated by publications in high-impact journals such as [Géotechnique](https://www.icevirtuallibrary.com/toc/jgeot/current), [JGGE](https://ascelibrary.org/journal/jggefk) and [CMAME](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering). Two journal papers were recognized as Editor’s Choice by *JEM-ASCE* and *FSCE*, and five papers were recognized as the journal’s top cited/downloaded.  
-
-Dr ZHANG was also the recipient of Early Career Award from Institution of Civil Engineers, Turing Network Development Award, Ringo Yu Prize from The Hong Kong Institution of Engineers, PolyU PhD thesis-Merit Award, Hunan Provincial Outstanding Master's Dissertation and Hunan University Outstanding Graduate.
 
 # __PROFESSIONAL SERVICE__
 
 **Organization of Conferences**
-<p><font size=4>Mar. 2025, Member of Organising Committee, <a href="https://lnkd.in/g8tHQ_xS"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) to be held at the Newman Alumni Center, University of Miami, Coral Gables, Florida, March 2 to 5, 2025.</a></p>
+
+<p><font size=4> Mar. 2025, Member of Organising Committee, <a href="https://lnkd.in/g8tHQ_xS"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) to be held at the Newman Alumni Center, University of Miami, Coral Gables, Florida, March 2 to 5, 2025.</a></font></p>
 
 **Volunteer for Conference**
 <li>ACS 28th Annual Green Chemistry & Engineering Conference, June 2-5, 2024, Atlanta, GA & Hybrid. (Innovation Hub Ambassador, Technical Session Assistant, Keynote Assistant)</li>
