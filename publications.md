@@ -10,7 +10,7 @@ weight: 4
 # __Journal Papers__
 
 |**2024**|
-|**Meili Liu**, Luis Ruiz Pestana*. [Mechanisms and energetics of calcium aluminosilicate glass dissolution through ab initio molecular dynamics-metadynamics simulations.](https://doi.org/10.1038/s41529-024-00445-x). npj Materials Degradation, 2024, 8 (1), 27.
+|**Meili Liu**, Luis Ruiz Pestana*. [Mechanisms and energetics of calcium aluminosilicate glass dissolution through ab initio molecular dynamics-metadynamics simulations.](https://doi.org/10.1038/s41529-024-00445-x). <u>npj Materials Degradation</u>, 2024, 8 (1), 27.
 
 |Li R#, Zhang P*, Yin ZY, Sheil B, 2024 Enhanced hybrid algorithms for segmentation and reconstruction of granular grains from X-Ray micro computed-tomography images. International Journal for Numerical and Analytical Methods in Geomechanics (Accepted)|  
 |He GF#, Zhang P*, Yin ZY, 2024. Active learning inspired multi-fidelity probabilistic modelling of geomaterial property. **Computer Methods in Applied Mechanics and Engineering**, 432, 117373|  
