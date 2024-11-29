@@ -10,74 +10,67 @@ weight: 4
 # __Journal Papers__
 
 |**2024**|
+
 |**Meili Liu**, Luis Ruiz Pestana*. [Mechanisms and energetics of calcium aluminosilicate glass dissolution through ab initio molecular dynamics-metadynamics simulations.](https://doi.org/10.1038/s41529-024-00445-x) <u>npj Materials Degradation</u>, 2024, 8 (1), 27.
 
-|Li R#, Zhang P*, Yin ZY, Sheil B, 2024 Enhanced hybrid algorithms for segmentation and reconstruction of granular grains from X-Ray micro computed-tomography images. International Journal for Numerical and Analytical Methods in Geomechanics (Accepted)|  
-|He GF#, Zhang P*, Yin ZY, 2024. Active learning inspired multi-fidelity probabilistic modelling of geomaterial property. **Computer Methods in Applied Mechanics and Engineering**, 432, 117373|  
-|He GF#, Zhang P*, Yin ZY, Goh SH, 2024. Multi-fidelity based Gaussian Process for quasi-site-specific probabilistic prediction of soil properties. **Canadian Geotechnical Journal**, 61(10), 2304-2322|  
-|Zhang P*, Sheil B, Cheng Q, 2024. Multi-fidelity learned emulator for waves and porous coastal structures interaction modelling. Computers and Geotechnics, 176, 106718| 
-|Wang MX, AYF Leung, Wang G, Zhang P, 2024. Semiempirical predictive models for seismically induced slope displacements considering ground motion directionality. **Journal of Geotechnical and Geoenvironmental Engineering-ASCE**, 150(9), 04024080|  
-|Qiu Y#, Zhang N, Yin ZY, Wang Y, Xu C, Zhang P, 2024. Novel multi-spatial receptive field (MSRF) XGBoost method for predicting geological cross-section based on sparse borehole data, Engineering Geology, 338, 107604|  
-|Lin, W#, Sheil, B, Zhang, P, Zhou, B, Xie, X, 2024. Seg2Tunnel: A hierarchical point cloud dataset and benchmarks for segmentation of segmental tunnel linings. Tunnelling & Underground Space Technology, 147, 105735| 
-|Zhou ZH#, He GF#, Zhang P, Yin ZY, Jiang MJ, 2024. The potential of a multi-fidelity residual neural network based optimizer to calibrate DEM parameters of bonded granular materials. Computers and Geotechnics, 168, 106137| 
-|Chen XX#, Zhang P*, Yin ZY, 2024. Physics-informed neural network solver for numerical analysis in geoengineering, Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 18(1): 33-51| 
-|Zhang P, Yin ZY, Sheil B, 2024. Multifidelity constitutive modeling of stress-induced anisotropic behavior of clay, **Journal of Geotechnical and Geoenvironmental Engineering-ASCE**, 150(3), 04024003|
-|Zhang P, Yin ZY, Sheil B, 2024. A physics-informed data-driven approach for consolidation analysis. **Géotechnique**, 74(7), 620-631 (☆75th Géotechnique Anniversary Early Career Award)|
+|Xiaohui Wang, Zhe Huai, Lei Zheng, **Meili Liu**, Zhaoxi Sun*. [A Benchmark Test of High-Throughput Atomistic Modeling for Octa-Acid Host–Guest Complexes.](https://doi.org/10.3390/liquids4030027) <u>liquids</u>, 2024, 4 (3), 485-504.
+
+|Xiaohui Wang, **Meili Liu**, Yang Li, Zuo-yuan Zhang, Yi Zhuang, Zhaoxi Sun*. [Multi-temperature charge scaling of ionic solvents: Disparate responses of thermodynamic properties.](https://doi.org/10.1016/j.molliq.2024.125445) <u>Journal of Molecular Liquids</u>, 2024, 409, 125445.
+
 
 |**2023**|
-|Zhang P, Yin ZY, Sheil B, 2023. Interpretable data-driven constitutive modelling of soils with sparse data. Computers and Geotechnics, 160, 105511|
-|He GF#, Zhang P*, Yin ZY, Jin YF, Yang Y, 2023. Multi-fidelity data-driven modelling of rate-dependent behaviour of soft clays. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 17:1, 64-76|
+
+|**Meili Liu**, Leila Pujal, Matthias Loipersberger, Maria Tsanai, Robert Vernon, Julie Forman-Kay, Farnaz Heidar-Zadeh*, Martin Head-Gordon*, Teresa Head-Gordon*, Kevin Carter-Fenk. [The Energetic Origins of Pi-Pi Contacts in Proteins.](https://doi.org/10.1021/jacs.3c09198) <u>Journal of the American Chemical Society</u>, 2023, 145(45), 24836-24851.
+
+|**Meili Liu**, Subhashree Panda, Prannoy Suraneni, Luis Ruiz Pestana*. [Insights from molecular dynamics into the chemistry-structure relationships of calcium aluminosilicate glasses.](https://doi.org/10.1016/j.jnoncrysol.2023.122545) <u>Journal of Non-Crystalline Solids</u>, 2023, 618, 122545.
+
+|Hongxia Hao*, Luis Ruiz Pestana*, Jin Qian, **Meili Liu**, Qiang Xu, Teresa Head-Gordon*. [Chemical transformations and transport phenomena at interfaces.]( https://doi.org/10.1002/wcms.1639) <u>WIREs Computational Molecular Science</u>, 2023, 13(2), e1639.
+
+|**Meili Liu**, Li Li, Zhiqin Wang, Shuang Wang*, Xiaowen Tang*. [Catalytic deAMPylation in AMPylation-inhibitory/assistant forms of FICD protein.](https://doi.org/10.1002/wcms.1639) <u> Frontiers in Chemistry</u>, 2023, 11.
+
 
 |**2022**|
-|Zhang P, Yin ZY, Jin YF, Sheil B, 2022. Physics-constrained hierarchical data-driven modelling framework for complex path‐dependent behaviour of soils. International Journal for Numerical and Analytical Methods in Geomechanics, 46(10), 1831-1850|
-|Zhang P, Yin ZY, Jin YF, 2022. Bayesian neural network-based uncertainty modelling: application to soil compressibility and undrained shear strength prediction. **Canadian Geotechnical Journal**, 59, 546-557 (☆ESI Highly Cited Paper)|
-|Zhang P, Yin ZY, Chen Q, 2022. Image-based 3D reconstruction of granular grains via hybrid algorithm and level set with convolution kernel. **Journal of Geotechnical and Geoenvironmental Engineering-ASCE**, 148(5), 04022021|
-|Zhang P, Yin ZY, Jin YF, Yang, J, Sheil B, 2022. Physics-informed multi-fidelity residual neural networks for hydromechanical modelling of granular soils and foundation considering internal erosion. Journal of Engineering Mechanics-ASCE, 148(4), 04022015 (☆Editor’s Choice)|
-|Zhang P, Yin ZY, Jin YF. 2022. Three-dimensional quantitative analysis on granular particle shape using convolutional neural network. International Journal for Numerical and Analytical Methods in Geomechanics, 46(1), 187-204 (☆Top Downloaded Paper 2021-2022)|
-|Zhang P, Yin ZY, Jin YF, 2022. Machine learning-based modelling of soil properties for geotechnical design: review, tool development and comparison. Archives of Computational Methods in Engineering, 29, 1229-1245|
-|Zhang P, Yin ZY, Jin YF, Liu XF. 2022. Modelling the mechanical behaviour of soils using machine learning algorithms with explicit formulations. Acta Geotechnica, 17, 1403-1422|
-|Shan F, He X, Armaghani DJ, Zhang P, Sheng D, Success and challenges in predicting TBM penetration rate using recurrent neural networks, Tunnelling and Underground Space Technology, 130, 104728|
+
+|Xingyi Guan, Akshaya Das, Christopher J. Stein, Farnaz Heidar-Zadeh, Luke Bertels, **Meili Liu**, Mojtaba Haghighatlari, Jie Li, Oufan Zhang, Hongxia Hao, Itai Leven, Martin Head-Gordon & Teresa Head-Gordon*. [A benchmark dataset for Hydrogen Combustion.](https://doi.org/10.1038/s41597-022-01330-5) <u> Scientific Data</u>, 2022, 215.
+
+|**Meili Liu**, Akshaya Kumar Das, Teresa Head-Gordon*. [Development of a many-body force field for aqueous alkali metal and halogen ions: an energy decomposition analysis guided approach.](https://doi.org/10.1038/s41597-022-01330-5) <u> Journal of Chemical Theory and Computation </u>, 2022, 18(2), 953-967.
+
+|Mojtaba Haghighatlari, Jie Li, Xingyi Guan, Oufan Zhang, Akshaya Das, Christopher J Stein, Farnaz Heidar-Zadeh, **Meili Liu**, Martin Head-Gordon, Luke Bertels, Hongxia Hao, Itai Leven, Teresa Head-Gordon*. [Development of a many-body force field for aqueous alkali metal and halogen ions: an energy decomposition analysis guided approach.](https://doi.org/10.1039/D2DD00008C) <u> Digital Discovery </u>, 2022, 1(3), 333-343.
 
 |**2021**|
-|Zhang P, Jin YF, Yin ZY. 2021. Machine learning–based uncertainty modeling of mechanical properties of soft clays relating to time-dependent behavior and its application. International Journal for Numerical and Analytical Methods in Geomechanics, 45(11), 1588-1602 (☆Top Cited/Downloaded Paper 2021-2022)|
-|Zhang P, Yin ZY, 2021. A novel deep learning-based modelling strategy from image of particles to mechanical properties for granular materials with CNN and BiLSTM. **Computer Methods in Applied Mechanics and Engineering**, 382, 113858|
-|Zhang P, Yin ZY, Jin YF, Chan THT, Gao FP, 2021. Intelligent modelling of clay compressibility using hybrid meta-heuristic and machine learning algorithms. Geoscience Frontiers, 12, 1, 441-452 (☆ESI Highly Cited Paper)|
-|Zhang P, Yin ZY, Jin YF, 2021. State-of-the-art review of machine learning applications in constitutive modeling of soils. Archives of Computational Methods in Engineering, 28(5), 3661-3686|
-|Zhang P, Chen RP, Dai T, Wang ZT, Wu K, 2021. An AIoT-based system for real-time monitoring of tunnel construction. Tunnelling and Underground Space Technology, 109, 103766|
-|Zhang P, Yin ZY, Chen WB, Jin YF, 2021. CNN-based intelligent method for identifying GSD of granular soils. International Journal of Geomechanics-ASCE, 21(12), 04021229|
-|Zhang P, Yang Y, Yin ZY. 2021. BiLSTM-based soil–structure interface modeling. International Journal of Geomechanics-ASCE, 21(7), 04021096|
+
+|**Meili Liu**, Zhe Huai, Hongwei Tan, Guangju Chen*. [Investigation of the detailed AMPylated reaction mechanism for the Huntingtin yeast-interacting protein E enzyme HYPE.](https://doi.org/10.3390/ijms22136999) <u> International Journal of Molecular Sciences </u>, 2021, 22(13), 6999.
+
+|**Meili Liu**, Akshaya K Das, James Lincoff, Sukanya Sasmal, Sara Y Cheng, Robert M Vernon, Julie D Forman-Kay, Teresa Head-Gordon*. [Configurational entropy of folded proteins and its importance for intrinsically disordered proteins.](https://doi.org/10.3390/ijms22073420) <u> International Journal of Molecular Sciences </u>, 2021, 22(7), 3420.
 
 |**2020**|
-|Zhang P, Yin ZY, Jin YF, Chan THT, 2020. A novel hybrid surrogate intelligent model for creep index prediction based on particle swarm optimization and random forest. Engineering Geology. 265, 105328 (☆ESI Hot Paper; ESI Highly Cited Paper)|
-|Zhang P, Wu HN, Chen RP, Chan THT, 2020. A critical evaluation of machine learning and deep learning in shield-ground interaction prediction. Tunnelling and Underground Space Technology, 106, 103593 |
-|Zhang P, Wu HN, Chen RP, Chan THT, 2020. Hybrid meta-heuristic and machine learning algorithms for tunneling-induced settlement prediction: a comparative study. Tunnelling and Underground Space Technology, 99, 103383|
-|Zhang P, Chen RP, Wu HN, Liu Yuan, 2020. Ground settlement induced by tunneling crossing interface of water-bearing mixed ground: a lesson from Changsha, China. Tunnelling and Underground Space Technology, 96, 103224|
-|Zhang P, Yin ZY, Zheng YY, Gao FP, 2020. A LSTM surrogate modelling approach for caisson foundations. Ocean Engineering, 204, 107263|
-|Zhang P, Jin YF, Yin ZY, Yang Y, 2020. Random forest based artificial intelligent model for predicting failure envelopes of caisson foundations in sand. Applied Ocean Research, 101, 102223|
-|Wu HN, Zhang P*, Chen RP, Lin XT, Liu Y, 2020. Ground response to horizontal spoil discharge jet grouting with impacts on the existing tunnels. **Journal of Geotechnical and Geoenvironmental Engineeering-ASCE**, 146(7), 05020006|
-|Zhang P, Yin ZY, Jin YF, Ye GL, 2020. An AI-based model for describing cyclic characteristics of granular materials. International Journal for Numerical and Analytical Methods in Geomechanics, 44, 9: 1315-1335|
-|Zhang P, Li H, Ha QP, Yin ZY, Chen RP*, 2020. Reinforcement learning based optimizer for improvement of predicting tunneling-induced ground responses. Advanced Engineering Informatics, 45, 101097|
-|Zhang P, Yin ZY, Chen RP*, 2020. Analytical and semi-analytical solutions for describing tunneling-induced transverse and longitudinal settlement troughs. International Journal of Geomechanics-ASCE, 20(8), 04020126|
-|Wang HL, Yin ZY, Zhang P, Jin YF, 2020. Straightforward prediction for air-entry value of compacted soils using machine learning algorithms. Engineering Geology, 279, 105911|
+
+|**Meili Liu**, Akshaya K Das, James Lincoff, Sukanya Sasmal, Sara Y Cheng, Robert M Vernon, Julie D Forman-Kay, Teresa Head-Gordon*. [Mechanistic insights of adenine promoted activity of low-molecule tyrosine phosphatase: An ONIOM study](https://doi.org/10.1016/j.cplett.2020.137719) <u> Chemical Physics Letters </u>, 2020, 754, 137719.
 
 |**2019**|
-|Zhang P, Chen RP, Wu HN*, 2019. Real-time analysis and regulation of EPB shield steering using random forest. Automation in Construction. 106, 101860|
-|Zhang P, 2019. A novel feature selection method based on global sensitivity analysis with application in machine learning-based prediction model. Applied Soft Computing. 85, 105859|
-|Chen RP, Zhang P*, Kang X, Zhong ZQ, Liu Y, Wu HN, 2019. Prediction of maximum surface settlement caused by EPB shield tunneling with ANN methods. Soils and Foundations. 59, 284–295 (☆ESI Highly Cited Paper, Nov. 2020)|
-|Chen RP, Zhang P*, Wu HN, Wang ZT, 2019. Prediction of shield tunneling-induced ground settlement using machine learning techniques. Frontiers of structural and Civil Engineering. 13(6), 1363–1378 (☆Editor’s Choice)|
+
+|Wen Xin Wu, **Meili Liu**, Hui Wang, Wei Jun Jin. [A Simple Rotor Guest Molecule Mediates the Formation of Cage or Channel Structures of Halogen-Bonding Host Cocrystals.](https://doi.org/10.1021/acs.cgd.9b00149) <u> Crysta Growth Design </u>, 2019, 19(8), 4378-4384.
+
+|Jia Tu, Chun Kou, **Meili Liu**, Hao Lu, Yahui Liu, Hongwei Tan, Wenhua Li, Zhishan Bo. [The preparation of Ag3BiBr6 films and their preliminary use for solution processed photovoltaics.](https://doi.org/10.1007/s42452-019-0633-y) <u> Crysta Growth Design </u>, 2019, 1, 1-7.
+
+|**2018**|
+
+|Wen Xin Wu, **Meili Liu**, Hui Wang, Wei Jun Jin. [Efficient visible-light-driven selective oxygen reduction to hydrogen peroxide by oxygen-enriched graphitic carbon nitride polymers.](https://doi.org/10.1039/C8EE01316K) <u> Energy & Environmental Science </u>, 2018, 11, 2581-2589.
+
 
 |**2015**|
-|Chen RP, Lin XT, Kang X, Zhong ZQ, Liu Y, Zhang P, 2018, Deformation and stress characteristics of existing twin tunnels induced by close-distance EPBS under-crossing. Tunnelling and Underground Space Technology, 82, 468-481|
+
+|Manman Guo, **Meili Liu**, Wei Zhao, Yue Xia, Wei Huang, Zelin Li*. [Rapid fabrication of SERS substrate and superhydrophobic surface with different micro/nano-structures by electrochemical shaping of smooth Cu surface.](https://doi.org/10.1016/j.apsusc.2015.06.162) <u> Applied Surface Science </u>, 2015, 353, 1277-1284.
+
+|L. Gan, J. Wu, **Meili Liu**, Hongyun He*. [Synthesis，Characterization of Heteroatomic Fe-Co-β Zeolite and Catalytic Performance on the Oxidation of Phenylethylene](https://www.researchgate.net/publication/357874982_SynthesisCharacterization_of_Heteroatomic_Fe-Co-b_Zeolite_and_Catalytic_Performance_on_the_Oxidation_of_Phenylethylene#fullTextFileContent) <u> Journal of Natural Science of Hunan Normal University </u>, 2015, 03, 008.
 
 # __Conference Abstract__
 
-|Zhang P, Sheil B, Yin ZY, 2023, Physics-informed data-driven modelling of caisson foundations. The 4th International Symposium on Machine Learning & Big Data in Geoscience, Ireland|
-|He GF#, Zhang P,Yin ZY, 2022, Data-driven modelling of rate-dependent behaviour of soft clays. The 25th Annual Conference of HKSTAM 2022 The 17th Jiangsu – Hong Kong Forum on Mechanics and Its Application, , Hong Kong SAR|
-|Zhang P, Yin ZY, 2020, A LSTM surrogate modelling approach for caisson foundations, Proceedings of the 24th Annual Conference of HKSTAM 2020, the 16th Shanghai – Hong Kong Forum on Mechanics and Its Application, Hong Kong SAR|
-|Zhang P, Liu Y, Kang X, Zhong K, Chen RP, 2018. Application of horizontal MJS piles in tunneling beneath existing twin tunnels. Proceedings of the 2nd International Symposium on Asia Urban GeoEngineering, Changsha, Hunan, China, 323-331|
+|**Meili Liu**. 20XX. XXXXXX.|
+
 
 # __Books__
 
-|Meili Liu. 20XX. Chapter 3, XXXXXX. Uncertainty, XXXXXXX|
+|**Meili Liu**. 20XX. Chapter X, XXXXXX. Uncertainty, XXXXXXX|
 
 
