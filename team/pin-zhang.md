@@ -40,11 +40,13 @@ permalink: /people/pinzhang/
 
 # __TEACHING EXPERIENCE AND INTERST__
 **Guest Lecturer**
+
 <li>Concrete Materials Science (CAE 720); University of Miami, Graduated level. </li>
 <li>Structural Laboratory (CAE 212); University of Miami, Undergraduate level.</li>
 <li>Molecular Simulation of Materials (CAE 729); University of Miami, Graduated level.</li>
 
 **Teaching Assistant**
+
 <li>Materials Chemistry; Beijing Normal University, Undergraduate level.</li>
 <li>Molecular Docking Computational Simulation; Beijing Normal University, Graduated level. </li>
 <li>Fundamental Chemistry Laboratory Experiments; Beijing Normal University, Undergraduate level.</li>
