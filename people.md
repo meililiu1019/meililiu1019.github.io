@@ -64,8 +64,8 @@ weight: 3
 <img src="/assets/ZnM.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
 <h3 style="margin-bottom:0;"> This could be you! </h3>
 <h5 style="margin-top:0; margin-bottom:0;"> 2025-Date: Ph.D at XXX </h5>
-<h5 style="margin-top:0; margin-bottom:0;"> 20XX-20XX: M.Sc at XXX Uni </h5>
-<h5 style="margin-top:0; margin-bottom:0;"> 20XX-20XX: B.Sc at XXX Uni </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> 20XX-20XX: M.S at XXX Uni </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> 20XX-20XX: B.S at XXX Uni </h5>
 
 </div>
 
@@ -79,5 +79,6 @@ weight: 3
 <h3 style="margin-bottom:0;"> This could be you! </h3>
 <h5 style="margin-top:0; margin-bottom:0;"> 2025-Date: Ph.D at XXX </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 20XX-20XX: M.S. at XXX Uni </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> 20XX-20XX: B.S at XXX Uni </h5>
 
 </div>
