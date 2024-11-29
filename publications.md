@@ -7,14 +7,11 @@ weight: 4
 
 (*corresponding, #supervised)
 
-# __Books__
-
-|Yin ZY, Zhang P, Jin YF. 2024. Chapter 3, Uncertainty in constitutive models. Uncertainty, Modeling, and Decision Making in Geotechnics, edited by Kok-Kwang Phoon, Takayuki Shuku, Jianye Ching|
-
 # __Journal Papers__
 
 |**2024**|
-|Zhang P*, Sheil B, Girolami M, Yaji K, Yin ZY, 2024. A novel consolidation analysis framework: universal function approximators regularized by physical principles. **Canadian Geotechnical Journal** (Accepted)|  
+|**Meili Liu**, Luis Ruiz Pestana*. 2024. ["Mechanisms and energetics of calcium aluminosilicate glass dissolution through ab initio molecular dynamics-metadynamics simulations."](https://doi.org/10.1038/s41529-024-00445-x) *npj Materials Degradation*, 2024, 8 (1), 27.
+
 |Li R#, Zhang P*, Yin ZY, Sheil B, 2024 Enhanced hybrid algorithms for segmentation and reconstruction of granular grains from X-Ray micro computed-tomography images. International Journal for Numerical and Analytical Methods in Geomechanics (Accepted)|  
 |He GF#, Zhang P*, Yin ZY, 2024. Active learning inspired multi-fidelity probabilistic modelling of geomaterial property. **Computer Methods in Applied Mechanics and Engineering**, 432, 117373|  
 |He GF#, Zhang P*, Yin ZY, Goh SH, 2024. Multi-fidelity based Gaussian Process for quasi-site-specific probabilistic prediction of soil properties. **Canadian Geotechnical Journal**, 61(10), 2304-2322|  
@@ -69,14 +66,18 @@ weight: 4
 |Chen RP, Zhang P*, Kang X, Zhong ZQ, Liu Y, Wu HN, 2019. Prediction of maximum surface settlement caused by EPB shield tunneling with ANN methods. Soils and Foundations. 59, 284–295 (☆ESI Highly Cited Paper, Nov. 2020)|
 |Chen RP, Zhang P*, Wu HN, Wang ZT, 2019. Prediction of shield tunneling-induced ground settlement using machine learning techniques. Frontiers of structural and Civil Engineering. 13(6), 1363–1378 (☆Editor’s Choice)|
 
-|**2018**|
+|**2015**|
 |Chen RP, Lin XT, Kang X, Zhong ZQ, Liu Y, Zhang P, 2018, Deformation and stress characteristics of existing twin tunnels induced by close-distance EPBS under-crossing. Tunnelling and Underground Space Technology, 82, 468-481|
 
-# __Conference Papers__
+# __Conference Abstract__
 
 |Zhang P, Sheil B, Yin ZY, 2023, Physics-informed data-driven modelling of caisson foundations. The 4th International Symposium on Machine Learning & Big Data in Geoscience, Ireland|
 |He GF#, Zhang P,Yin ZY, 2022, Data-driven modelling of rate-dependent behaviour of soft clays. The 25th Annual Conference of HKSTAM 2022 The 17th Jiangsu – Hong Kong Forum on Mechanics and Its Application, , Hong Kong SAR|
 |Zhang P, Yin ZY, 2020, A LSTM surrogate modelling approach for caisson foundations, Proceedings of the 24th Annual Conference of HKSTAM 2020, the 16th Shanghai – Hong Kong Forum on Mechanics and Its Application, Hong Kong SAR|
 |Zhang P, Liu Y, Kang X, Zhong K, Chen RP, 2018. Application of horizontal MJS piles in tunneling beneath existing twin tunnels. Proceedings of the 2nd International Symposium on Asia Urban GeoEngineering, Changsha, Hunan, China, 323-331|
+
+# __Books__
+
+|Meili Liu. 20XX. Chapter 3, XXXXXX. Uncertainty, XXXXXXX|
 
 
