@@ -51,11 +51,11 @@ weight: 4
 
 |Wen Xin Wu, **Meili Liu**, Hui Wang, Wei Jun Jin. [A Simple Rotor Guest Molecule Mediates the Formation of Cage or Channel Structures of Halogen-Bonding Host Cocrystals.](https://doi.org/10.1021/acs.cgd.9b00149) <u> Crysta Growth Design </u>, 2019, 19(8), 4378-4384.
 
-|Jia Tu, Chun Kou, **Meili Liu**, Hao Lu, Yahui Liu, Hongwei Tan, Wenhua Li, Zhishan Bo. [The preparation of Ag3BiBr6 films and their preliminary use for solution processed photovoltaics.](https://doi.org/10.1007/s42452-019-0633-y) <u> Crysta Growth Design </u>, 2019, 1, 1-7.
+|Jia Tu, Chun Kou, **Meili Liu**, Hao Lu, Yahui Liu, Hongwei Tan, Wenhua Li, Zhishan Bo. [The preparation of Ag3BiBr6 films and their preliminary use for solution processed photovoltaics.](https://doi.org/10.1007/s42452-019-0633-y) <u> SN Applied Sciences </u>, 2019, 1, 1-7.
 
 |**2018**|
 
-|Wen Xin Wu, **Meili Liu**, Hui Wang, Wei Jun Jin. [Efficient visible-light-driven selective oxygen reduction to hydrogen peroxide by oxygen-enriched graphitic carbon nitride polymers.](https://doi.org/10.1039/C8EE01316K) <u> Energy & Environmental Science </u>, 2018, 11, 2581-2589.
+|Zhen Wei, **Meili Liu**, Zijian Zhang, Wenqing Yao, Hongwei Tan, Yongfa Zhu*. [Efficient visible-light-driven selective oxygen reduction to hydrogen peroxide by oxygen-enriched graphitic carbon nitride polymers.](https://doi.org/10.1039/C8EE01316K) <u> Energy & Environmental Science </u>, 2018, 11, 2581-2589.
 
 
 |**2015**|
