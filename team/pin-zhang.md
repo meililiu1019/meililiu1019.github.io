@@ -15,7 +15,9 @@ orcid: https://orcid.org/0009-0009-5324-2779
 permalink: /people/pinzhang/
 ---
 # __Bio__
-[Meili (Mandy) Liu](https://cde.nus.edu.sg/cee/staff/zhangpin/) is the Post-Doctoral Associate under the [Presidential Young Professorship](https://www.nus.edu.sg/careers/nus-programmes/) in the Department of Civil and Environmental Engineering at University of Miami (UM). Before joining UM, Dr. Liu worked at the University of Cambridge as the Royal Society Newton International Fellow (2022-2024). She completed the Ph.D. from the Hong Kong Polytechnic University (PolyU) in 2022, including one year at the University of Oxford as a visiting scholar.  
+[Meili (Mandy) Liu](https://cde.nus.edu.sg/cee/staff/zhangpin/) is a Post-doctoral Associate in the Civil & Architectural Engineering Department at University of Miami. Her research focuses on computational methods, especially the use of reactive molecular dynamics (MD) simulations, *ab initio* molecular dynamics (AIMD) simulations, Monte Carlo (MC) simulations, and machine learning (ML)to guide the development of novel infrastructure materials. Currently, Dr. Liu is focused on two specific reserch thrusts: 1）Modification of biochar; 2) Asphalt aging.
+
+Dr. Liu earned a joint Ph.D. in Chemistry, specializing in Physical Chemistry, from the University of California, Berkeley (UCB), and Beijing Normal University in December 2021. Since then, she has been a postdoctoral researcher at the University of Miami.
 
 
 # __PROFESSIONAL SERVICE__
