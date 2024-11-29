@@ -41,18 +41,18 @@ Natural Sciences and Engineering Research Council of Canada (NSERC)
 
 # __Awards & Honours__
 <li>Dec. 2020 First-Class Scholarship for Ph.D., Beijing Normal University</li>
-Dec. 2019 First-Class Scholarship for Ph.D., Beijing Normal University
-Sep. 2019 Scholarship from the China Scholarship Council (top 1.6 %), Beijing Normal University 
-Oct. 2018 The Social Practice Scholarship, Beijing Normal University
-Dec. 2017 First-Class Scholarship for Master, Beijing Normal University
-Jun. 2017 The Outstanding Scholarship for New Graduate Students, Beijing Normal University 
-Jun. 2017 Excellent Student Leader Award (top 5%), Beijing Normal University
-Dec. 2015 National Merit Scholarship Honor Certificate, Hunan Normal University
-May. 2015 Third-Class "Dajia Weikang Academic Innovation Award", Hunan Normal University 
-May. 2015 Excellence Award "Star of Chemistry and Chemical Engineering", Hunan Normal University 
-May. 2015 ‘Excellent Award’, Innovative Experiment Competition in Hunan Province 
-Dec. 2014 Second-Class Comprehensive Scholarship, Hunan Normal University
-Dec. 2013 National Merit Scholarship Honor Certificate (top 2%), Hunan Normal University 
-Nov. 2013 Second-Class Comprehensive Scholarship, Hunan Normal University
-Sep. 2013 Second-Class "Huiyuan-Sida Chemical Innovation Scholarship", Hunan Normal University
+<li>Dec. 2019 First-Class Scholarship for Ph.D., Beijing Normal University</li>
+<li>Sep. 2019 Scholarship from the China Scholarship Council (top 1.6 %), Beijing Normal University </li>
+<li>Oct. 2018 The Social Practice Scholarship, Beijing Normal University</li>
+<li>Dec. 2017 First-Class Scholarship for Master, Beijing Normal University</li>
+<li>Jun. 2017 The Outstanding Scholarship for New Graduate Students, Beijing Normal University</li>
+<li>Jun. 2017 Excellent Student Leader Award (top 5%), Beijing Normal University</li>
+<li>Dec. 2015 National Merit Scholarship Honor Certificate, Hunan Normal University</li>
+<li>May. 2015 Third-Class "Dajia Weikang Academic Innovation Award", Hunan Normal University</li>
+<li>May. 2015 Excellence Award "Star of Chemistry and Chemical Engineering", Hunan Normal University</li> 
+<li>May. 2015 ‘Excellent Award’, Innovative Experiment Competition in Hunan Province</li>
+<li>Dec. 2014 Second-Class Comprehensive Scholarship, Hunan Normal University</li>
+<li>Dec. 2013 National Merit Scholarship Honor Certificate (top 2%), Hunan Normal University</li>
+<li>Nov. 2013 Second-Class Comprehensive Scholarship, Hunan Normal University</li>
+<li>Sep. 2013 Second-Class "Huiyuan-Sida Chemical Innovation Scholarship", Hunan Normal University</li>
          
