@@ -66,6 +66,7 @@ Dr. Liu earned a joint Ph.D. in Chemistry, specializing in Physical Chemistry, f
 <li>National Science Foundation (NSF) in advanced computing infrastructure of the United States: Molecular Mechanisms and Energetics of Calcium Aluminosilicate Glass Dissolution. Grant No. CIV240003, Award: ACCESS Credits of 1,500,000.0, Apr. 2024 – Apr. 2025. (Award)</li>
 <li>Hunan Province Department of Education of China: Catalysis of Nanomolecular Zeolite. Grant No. 201410542011, Award: ￥2,0000 ($ 3000). May. 2013 – May. 2015. (End)</li>
 
+<br> <!-- 强制换行 -->
 **Co-PI**
 <li>Department of Energy (DOE) of the United States: Towards Net-Zero Carbon Asphalt Pavement Using Bio-oil and Biochar with Balanced Engineering and Environmental Performance. Control number: 3219-1655. $ 1, 100, 000, 01/2025-06/2026. (Pending)</li>
 
