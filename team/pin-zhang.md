@@ -33,7 +33,7 @@ Nominated member of TC309 Machine Learning and Big Data, ISSMGE
 Natural Sciences and Engineering Research Council of Canada (NSERC)
 
 # __Organization of Conferences__
-<p><font size=4>Mar. 2025: Member of Organising Committee, <a href="https://lnkd.in/g8tHQ_xS"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) to be held at the Newman Alumni Center, University of Miami, Coral Gables, Florida, March 2 to 5, 2025.</a></p>
+<p><font size=4>Mar. 2025, Member of Organising Committee, <a href="https://lnkd.in/g8tHQ_xS"> The 1st Symposium on Climate-Smart Infrastructure Innovations and Implementation (CSI3) to be held at the Newman Alumni Center, University of Miami, Coral Gables, Florida, March 2 to 5, 2025.</a></p>
          
 # __Awards & Honours__
 <li>Dec. 2020 First-Class Scholarship for Ph.D., Beijing Normal University</li>
