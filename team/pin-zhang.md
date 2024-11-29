@@ -30,6 +30,7 @@ Dr. Liu earned a joint Ph.D. in Chemistry, specializing in Physical Chemistry, f
 <li>ACS 28th Annual Green Chemistry & Engineering Conference, June 2-5, 2024, Atlanta, GA & Hybrid. (Innovation Hub Ambassador, Technical Session Assistant, Keynote Assistant)</li>
 <li>ACI concrete Convention, November 3-7, 2024, Marriott Philadelphia Downtown, Philadelphia, PA United States. (Judges for Student Poster Session)</li>
 
+<br> <!-- 强制换行 -->
 
 **Review**
 
