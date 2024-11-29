@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 weight: 2
 ---
-#### Intelligent algorithms, computational mechanics, solid and fluid mechanics underpin our research. 
+#### Multi-Scale Modeling of Heterogeneous Materials to Enhance Performance and Sustainability in Advanced Infrastructure Systems. 
 
 <!-- This is for Science Discovery -->
 
