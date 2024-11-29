@@ -1,14 +1,15 @@
 ---
 layout: team-member
-person: "Pin ZHANG, PhD"
+person: "Meili (Mandy) Liu, PhD"
 position: "Principal Investigator"
-email: dr.pin.zhang@gmail.com
-googlescholar: https://scholar.google.com/citations?user=_4-M1mYAAAAJ&hl=en
-linkedin: https://www.linkedin.com/in/pin-zhang-086579278/
-github: PinZhang3
-researchgate: Pin-Zhang-3
+email: mxl2120@miami.edu
+googlescholar: https://scholar.google.com/citations?user=Y9cxi3MAAAAJ&hl=en
+linkedin: https://www.linkedin.com/in/meili-mandy-liu-207380236/
+github: meililiu1019
+researchgate: https://www.researchgate.net/profile/Meili-Liu-5
 website: 
-orcid: 
+orcid: https://orcid.org/0009-0009-5324-2779
+
 
 
 permalink: /people/pinzhang/
