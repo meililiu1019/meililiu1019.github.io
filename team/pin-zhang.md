@@ -40,18 +40,19 @@ Natural Sciences and Engineering Research Council of Canada (NSERC)
 11/2022: Chair, ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications, HK  
 
 # __Awards & Honours__
-03/2024: Top Downloaded Article, Int. J. Numer. Anal. Methods Geomech. (Wiley)  
-10/2023: World's Top 2% Scientists, Stanford University  
-10/2023: PolyU PhD Thesis Award 2023 – Merit Award (3 recipients from all PhDs at PolyU in 2022), PolyU  
-04/2023: 75th Géotechnique Anniversary Early Career Award, Géotechnique  
-03/2023: Ringo Yu Prize, Best PhD Thesis (only 1 recipient at PolyU in 2022), The Hong Kong Institution of Engineers  
-03/2023: Turing Network Development Award, The Alan Turing Institute, UK  
-03/2023: Top Cited/Downloaded Article, Int. J. Numer. Anal. Methods Geomech. (Wiley)  
-09/2022: Newton International Fellowship (15 global researchers awarded in 2022), Royal Society, UK
-08/2022: JSPS Postdoctoral Fellowship, Japan Society for the Promotion of Science, Japan   
-04/2022: Editor’s Choice, Journal of Engineering Mechanics (ASCE)  
-2021/2022: Top Cited Article, Tunnell. Undergr. Space Technol./ Eng. Geol./ Soils Found. (Elsevier)  
-2020/2021: Outstanding Master’s Dissertation Award (~ top 1%), Hunan University/ Hunan Province  
-05/2020: Editor’s Choice, Frontiers of Structural and Civil Engineering (Springer)  
-2019: Outstanding Graduates (~ top 1%), Hunan Province  
-11/2017: National Scholarship, Ministry of Education of the People’s Republic of China
+Dec. 2020 First-Class Scholarship for Ph.D., Beijing Normal University
+Dec. 2019 First-Class Scholarship for Ph.D., Beijing Normal University
+Sep. 2019 Scholarship from the China Scholarship Council (top 1.6 %), Beijing Normal University 
+Oct. 2018 The Social Practice Scholarship, Beijing Normal University
+Dec. 2017 First-Class Scholarship for Master, Beijing Normal University
+Jun. 2017 The Outstanding Scholarship for New Graduate Students, Beijing Normal University 
+Jun. 2017 Excellent Student Leader Award (top 5%), Beijing Normal University
+Dec. 2015 National Merit Scholarship Honor Certificate, Hunan Normal University
+May. 2015 Third-Class "Dajia Weikang Academic Innovation Award", Hunan Normal University 
+May. 2015 Excellence Award "Star of Chemistry and Chemical Engineering", Hunan Normal University 
+May. 2015 ‘Excellent Award’, Innovative Experiment Competition in Hunan Province 
+Dec. 2014 Second-Class Comprehensive Scholarship, Hunan Normal University
+Dec. 2013 National Merit Scholarship Honor Certificate (top 2%), Hunan Normal University 
+Nov. 2013 Second-Class Comprehensive Scholarship, Hunan Normal University
+Sep. 2013 Second-Class "Huiyuan-Sida Chemical Innovation Scholarship", Hunan Normal University
+         
