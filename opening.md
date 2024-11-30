@@ -68,7 +68,7 @@ weight: 5
     <h3 style="margin-bottom: 0; text-align: left;"><a href="/people/your-permalink/">Pandas</a></h3>
   </div>
 
-  <div style="flex: 0 0 50%; text-align: left;">
+  <div style="text-align: center;">
     <img src="/assets/matplotlib.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
     <h3 style="margin-bottom: 0; text-align: left;"><a href="/people/your-permalink/">Matplotlib</a></h3>
   </div>
