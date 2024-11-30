@@ -136,7 +136,7 @@ weight: 5
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/chemdraw.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
+    <img src="/assets/CD.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">ChemDraw</a></h3>
   </div>
 
