@@ -92,7 +92,7 @@ weight: 5
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/pymol.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
+    <img src="/assets/Pymol.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Pymol</a></h3>
   </div>
 
