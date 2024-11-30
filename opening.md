@@ -19,7 +19,7 @@ weight: 5
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/gaussian16.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <img src="/assets/gaussian16.png" style="width: 150%; height: auto; display: block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Gaussian</a></h3>
   </div>
 
@@ -29,13 +29,13 @@ weight: 5
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/gromacs.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <img src="/assets/gromacs.png" style="width:150px; height: auto; display:block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Gromacs</a></h3>
   </div>
 
   <!-- 每个图片和名字的容器 -->
   <div style="text-align: center;">
-    <img src="/assets/lammps.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <img src="/assets/lammps.png" style="width:150px; height: auto; display:block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">LAMMPS</a></h3>
   </div>
 
@@ -45,7 +45,7 @@ weight: 5
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/Tinker.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <img src="/assets/Tinker.png" style="width:150px; height: auto; display:block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Tinker</a></h3>
   </div>
 
@@ -56,7 +56,7 @@ weight: 5
 
   <!-- 每个图片和名字的容器 -->
   <div style="text-align: center;">
-    <img src="/assets/qchem.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <img src="/assets/qchem.png" style="width:150px; height: auto; display:block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Q-chem</a></h3>
   </div>
 
@@ -71,7 +71,7 @@ weight: 5
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/materialstudio.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <img src="/assets/materialstudio.png" style="width:150px; height: auto; display:block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Material Studio</a></h3>
   </div>
 
