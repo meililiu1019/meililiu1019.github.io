@@ -5,6 +5,54 @@ permalink: /Skills/
 weight: 5
 ---
 
+---
+layout: page
+title: Skills
+permalink: /Skills/
+weight: 5
+---
+
+# __Technical Expertise__
+
+**LANGUAGES**
+
+<!-- 使用 Flexbox 布局容器 -->
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+  <!-- 每个图片和名字的容器 -->
+  <div style="text-align: center;">
+    <img src="/assets/python.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Python</a></h3>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/matlab.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Matlab</a></h3>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/c.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">C++</a></h3>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/latex.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Latex</a></h3>
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 # __Technical Expertise__
 
 **LANGUAGES**
