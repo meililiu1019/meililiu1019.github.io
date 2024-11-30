@@ -75,7 +75,7 @@ weight: 5
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Material Studio</a></h3>
   </div>
 
-
+</div>
 
 <br> <!-- 强制换行 -->
 **LANGUAGES**
