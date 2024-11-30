@@ -32,7 +32,7 @@ import sklearn from '../assets/sklearn.png';
 import tensorflow from '../assets/tensorflow.png';
 import tex from '../assets/tex.png';
 import vscode from '../assets/vscode.png';
-import '../styles/skills.css';
+import '../assets/css/skills.css';
 
 
 const languages = [python, matlab, cpp, sql, tex];
