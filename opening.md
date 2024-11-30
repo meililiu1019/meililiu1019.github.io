@@ -7,8 +7,6 @@ weight: 5
 
 <!-- This is for biochar -->
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/assets/research/biocharMD.jpg" style="width: 100%; border: 2px solid black;"><font size="3">Achieving Net-Zero Carbon Asphalt Pavements with Biochar: Intergrating Experiemnts and Computations</font></p>
-
 import React, { useState } from 'react';
 import anaconda from '../assets/anaconda.png';
 import astropy from '../assets/astropy.png';
