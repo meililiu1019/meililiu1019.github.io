@@ -36,12 +36,12 @@ weight: 5
   <!-- 每个图片和名字的容器 -->
   <div style="text-align: center;">
     <img src="/assets/lammps.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
-    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">LAMMPs</a></h3>
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">LAMMPS</a></h3>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/amber.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
-    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">A</a></h3>
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">AMBER</a></h3>
   </div>
 
   <div style="text-align: center;">
