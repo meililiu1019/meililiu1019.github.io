@@ -87,23 +87,23 @@ weight: 5
 
   <!-- 每个图片和名字的容器 -->
   <div style="text-align: center;">
-    <img src="/assets/cp2k.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
-    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">CP2K</a></h3>
+    <img src="/assets/vmd.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">VMD</a></h3>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/Gaussian16_2.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
-    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Gaussian</a></h3>
+    <img src="/assets/pymol.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Pymol</a></h3>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/orca.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
-    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">ORCA</a></h3>
+    <img src="/assets/ovito.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Ovito</a></h3>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/amber.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
-    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">AMBER</a></h3>
+    <img src="/assets/Avlgadro.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Avogadro</a></h3>
   </div>
 
 
