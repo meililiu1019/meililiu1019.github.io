@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Opening
-permalink: /opening/
+title: Skills
+permalink: /Skills/
 weight: 5
 ---
 
