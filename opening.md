@@ -102,7 +102,7 @@ weight: 5
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/Avlgadro.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <img src="/assets/avlgadro.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Avogadro</a></h3>
   </div>
 
