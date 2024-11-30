@@ -33,7 +33,7 @@ weight: 5
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Gromacs</a></h3>
   </div>
 
-    <!-- 每个图片和名字的容器 -->
+  <!-- 每个图片和名字的容器 -->
   <div style="text-align: center;">
     <img src="/assets/lammps.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">LAMMPs</a></h3>
@@ -46,14 +46,34 @@ weight: 5
 
   <div style="text-align: center;">
     <img src="/assets/tinker.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
-    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">ORCA</a></h3>
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Tinker</a></h3>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/gromacs.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
-    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Gromacs</a></h3>
+    <img src="/assets/charmm.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">CHARMM</a></h3>
   </div>
 
+  <!-- 每个图片和名字的容器 -->
+  <div style="text-align: center;">
+    <img src="/assets/qchem.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Q-chem</a></h3>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/autodock4.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">AutoDock</a></h3>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/vasp.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">VASP</a></h3>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/materialstudio.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Material Studio</a></h3>
+  </div>
 
 
 
