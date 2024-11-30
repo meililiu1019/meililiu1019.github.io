@@ -196,7 +196,7 @@ weight: 5
 
   <!-- 第一张图片与第一列的第一张图对齐 -->
   <div style="text-align: center; flex: 1 1 22%;">
-    <img src="/assets/bash.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <img src="/assets/bash.png" style="width:auto; height:150px; display:block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">BASH</a></h3>
   </div>
 
