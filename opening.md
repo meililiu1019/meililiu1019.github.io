@@ -107,6 +107,26 @@ weight: 5
   </div>
 
 
+  <!-- 每个图片和名字的容器 -->
+  <div style="text-align: center;">
+    <img src="/assets/vesta.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">VESTA</a></h3>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/ChemCraft.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">ChemCraft</a></h3>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/mercury.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Mecury</a></h3>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/diamond.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Diamond</a></h3>
+  </div>
 
 
 </div>  
