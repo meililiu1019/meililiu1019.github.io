@@ -14,36 +14,47 @@ weight: 5
 
   <!-- 每个图片和名字的容器 -->
   <div style="text-align: center;">
-    <img src="/assets/git.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
-    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Git</a></h3>
+    <img src="/assets/cp2k.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">CP2K</a></h3>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/latex.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
-    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Latex</a></h3>
+    <img src="/assets/gaussian16.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Gaussian</a></h3>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/jupyter.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
-    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Jupyter Notebooks</a></h3>
+    <img src="/assets/orca.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">ORCA</a></h3>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/anaconda.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
-    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Anaconda</a></h3>
+    <img src="/assets/gromacs.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Gromacs</a></h3>
   </div>
 
-    <!-- 第一张图片与第一列的第一张图对齐 -->
-  <div style="text-align: center; flex: 1 1 22%;">
-    <img src="/assets/vscode.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
-    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Visual Studio Code</a></h3>
+    <!-- 每个图片和名字的容器 -->
+  <div style="text-align: center;">
+    <img src="/assets/lammps.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">LAMMPs</a></h3>
   </div>
 
-  <!-- 第二张图片与第一列的第二张图对齐 -->
-  <div style="text-align: center; flex: 1 1 22%;">
-    <img src="/assets/colab.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
-    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Google Colab</a></h3>
+  <div style="text-align: center;">
+    <img src="/assets/amber.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">A</a></h3>
   </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/orca.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">ORCA</a></h3>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/gromacs.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Gromacs</a></h3>
+  </div>
+
+
 
 
 <br> <!-- 强制换行 -->
