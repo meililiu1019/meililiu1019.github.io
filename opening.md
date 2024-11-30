@@ -19,7 +19,7 @@ weight: 5
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/Gaussian16_2.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
+    <img src="/assets/Gaussian16_2.png" style="width:150%; height:150px; display: block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Gaussian</a></h3>
   </div>
 
@@ -92,12 +92,12 @@ weight: 5
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/Pymol.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
+    <img src="/assets/Pymol.png" style="width:150%; height:150px; display: block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Pymol</a></h3>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/ovito.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
+    <img src="/assets/ovito.png" style="width:150%; height:150px; display: block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Ovito</a></h3>
   </div>
 
@@ -114,12 +114,12 @@ weight: 5
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/ChemCraft.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
+    <img src="/assets/ChemCraft.png" style="width:150%; height:150px; display: block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">ChemCraft</a></h3>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/mercury.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
+    <img src="/assets/mercury.png" style="width:150%; height:150px; display: block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Mercury</a></h3>
   </div>
 
@@ -136,12 +136,12 @@ weight: 5
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/CD.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
+    <img src="/assets/CD.png" style="width:150%; height:150px; display: block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">ChemDraw</a></h3>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/photoshop.png" style="width: 150%; height:150px; display: block; margin: 0 auto;">
+    <img src="/assets/photoshop.png" style="width:150%; height:150px; display: block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Photoshop</a></h3>
   </div>
 
@@ -153,7 +153,7 @@ weight: 5
 
   <!-- 第一张图片与第一列的第一张图对齐 -->
   <div style="text-align: center; flex: 1 1 22%;">
-    <img src="/assets/gaussianview.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <img src="/assets/gaussianview.png" style="width:auto; height:150px; display:block; margin: 0 auto;">
     <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">GaussianView</a></h3>
   </div>
 
