@@ -151,6 +151,19 @@ weight: 5
   </div>
 
 
+  <!-- 第一张图片与第一列的第一张图对齐 -->
+  <div style="text-align: center; flex: 1 1 22%;">
+    <img src="/assets/gaussianview.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">GaussianView</a></h3>
+  </div>
+
+  <!-- 第二张图片与第一列的第二张图对齐 -->
+  <div style="text-align: center; flex: 1 1 22%;">
+    <img src="/assets/Xming.png" style="width:150px; height:150px; display:block; margin: 0 auto;">
+    <h3 style="margin-bottom: 0;"><a href="/people/your-permalink/">Xming</a></h3>
+  </div>
+
+
 </div>  
 
 
