@@ -5,13 +5,6 @@ permalink: /Skills/
 weight: 5
 ---
 
----
-layout: page
-title: Skills
-permalink: /Skills/
-weight: 5
----
-
 # __Technical Expertise__
 
 **LANGUAGES**
