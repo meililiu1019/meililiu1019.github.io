@@ -10,28 +10,28 @@ weight: 5
 <p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/assets/research/biocharMD.jpg" style="width: 100%; border: 2px solid black;"><font size="3">Achieving Net-Zero Carbon Asphalt Pavements with Biochar: Intergrating Experiemnts and Computations</font></p>
 
 import React, { useState } from 'react';
-import anaconda from '../assets/skills/anaconda.png';
-import astropy from '../assets/skills/astropy.png';
-import colab from '../assets/skills/colab.png';
-import cpp from '../assets/skills/cpp.png';
-import git from '../assets/skills/git.png';
-import jupyter from '../assets/skills/jupyter.png';
-import keras from '../assets/skills/keras.png';
-import latex from '../assets/skills/latex.png';
-import matlab from '../assets/skills/matlab.png';
-import matplotlib from '../assets/skills/matplotlib.png';
-import sql from '../assets/skills/mssql.png';
-import numpy from '../assets/skills/numpy.png';
-import opencv from '../assets/skills/opencv.png';
-import pandas from '../assets/skills/pandas.png';
-import pillow from '../assets/skills/pillow.png';
-import python from '../assets/skills/python.png';
-import pytorch from '../assets/skills/pytorch.png';
-import skimage from '../assets/skills/skimage.png';
-import sklearn from '../assets/skills/sklearn.png';
-import tensorflow from '../assets/skills/tensorflow.png';
-import tex from '../assets/skills/tex.png';
-import vscode from '../assets/skills/vscode.png';
+import anaconda from '../assets/anaconda.png';
+import astropy from '../assets/astropy.png';
+import colab from '../assets/colab.png';
+import cpp from '../assets/cpp.png';
+import git from '../assets/git.png';
+import jupyter from '../assets/jupyter.png';
+import keras from '../assets/keras.png';
+import latex from '../assets/latex.png';
+import matlab from '../assets/matlab.png';
+import matplotlib from '../assets/matplotlib.png';
+import sql from '../assets/mssql.png';
+import numpy from '../assets/numpy.png';
+import opencv from '../assets/opencv.png';
+import pandas from '../assets/pandas.png';
+import pillow from '../assets/pillow.png';
+import python from '../assets/python.png';
+import pytorch from '../assets/pytorch.png';
+import skimage from '../assets/skimage.png';
+import sklearn from '../assets/sklearn.png';
+import tensorflow from '../assets/tensorflow.png';
+import tex from '../assets/tex.png';
+import vscode from '../assets/vscode.png';
 import '../styles/skills.css';
 
 
