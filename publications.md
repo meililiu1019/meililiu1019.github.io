@@ -5,7 +5,9 @@ permalink: /publications/
 weight: 4
 ---
 
-
+<p align="center" style="font-size: 18px;">
+    PUBLICATION | GRANT ACTIVITIES
+</p>
 
 # __Journal Papers__
 (*corresponding, #supervised)
