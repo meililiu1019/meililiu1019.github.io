@@ -6,7 +6,7 @@ weight: 4
 ---
 
 <p align="center" style="font-size: 18px;">
-    PUBLICATION | GRANT ACTIVITIES
+    PUBLICATION | GRANT ACTIVITIES | ORAL PRESTATION & POSTER
 </p>
 
 # __Journal Papers__
