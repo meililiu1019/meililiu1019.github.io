@@ -64,13 +64,43 @@ weight: 4
 
 |L. Gan, J. Wu, **Meili Liu**, Hongyun He*. [Synthesis，Characterization of Heteroatomic Fe-Co-β Zeolite and Catalytic Performance on the Oxidation of Phenylethylene](https://www.researchgate.net/publication/357874982_SynthesisCharacterization_of_Heteroatomic_Fe-Co-b_Zeolite_and_Catalytic_Performance_on_the_Oxidation_of_Phenylethylene#fullTextFileContent) <u> Journal of Natural Science of Hunan Normal University </u>, 2015, 03, 008.
 
+# __GRANT ACTIVITIES__
+
+**Principal Investigator**
+<li>National Science Foundation (NSF) in advanced computing infrastructure of the United States: Molecular Mechanisms and Energetics of Calcium Aluminosilicate Glass Dissolution. Grant No. CIV240003, Award: ACCESS Credits of 1,500,000.0, Apr. 2024 – Apr. 2025. (Award)</li>
+<li>Hunan Province Department of Education of China: Catalysis of Nanomolecular Zeolite. Grant No. 201410542011, Award: ￥2,0000 ($ 3000). May. 2013 – May. 2015. (End)</li>
+
+<br> <!-- 强制换行 -->
+**Co-PI**
+<li>Department of Energy (DOE) of the United States: Towards Net-Zero Carbon Asphalt Pavement Using Bio-oil and Biochar with Balanced Engineering and Environmental Performance. Control number: 3219-1655. $ 1, 100, 000, 01/2025-06/2026. (Pending)</li>
+
+<br> <!-- 强制换行 -->
+**Key Personnel**
+<li>United States Department of Agriculture (USDA): Towards Carbon-Neutral Asphalt Pavement: Value-Added Application of Biochars from Woody Biomass and Other Agro-Wastes. Control number: 3219-1655. $ 999,996. 01/10/2024-30/09/2027. (Award)</li>
+<li>University of Miami (UM). Low-Footprint Nano-Biochar ZT-CFRP Composites for Wind Turbine Blade Applications. Control number: 3387-2813. $3,212,705. 01/06/2025-31/05/2028. (Pending)
+</li>
+
+<br> <!-- 强制换行 -->
+**Participant**
+<li>National Science Foundation (NSF) of the United States: Reactive and Non-Reactive Force Field Design Guided by Advances in Energy Decomposition Analysis. (Grant No. 1665315; Award: $ 776,552.00; Aug. 2017 – Jul. 2020; PI: Prof. Teresa Head-Gordon; Prof. Martin Head-Gordon)</li>
+<li>The National Institutes of Health (NIH): The development of machine learning methods. (Grant No. 5U01GM121667; PI: Prof. Teresa Head-Gordon.)</li>
+<li>The National Institutes of Health (NIH): The pi-contact application. (Grant No. 5R01GM127627; PI: Prof. Teresa Head-Gordon.)</li>
+<li>The U.S. Department of Energy's Office of Science: The Science User Facility at the Energy Research Scientific Computing Center. (Contract No. ED-AC02-05CH11231. PI: Prof. Teresa Head-Gordon.)</li>
+<li>National Natural Science Foundation of China: Theoretical Study on the Microscopic Mechanism of Water Oxidation Catalyzed by the Oxygen-Evolving Complex of Photosystem II. (Grant No. 21571019, Award: $ 91,436.15; Jan. 2016 – Dec. 2019; PI: Prof. Guangju Chen.)</li>
+<li>National Natural Science Foundation of China: Theoretical Study on the Regulation of Enzyme Protein Function and Activity Mechanism by Ordered Water Molecular Network. (Grant No. 21571019; Award: $ 91,436.15; Jan. 2016 – Dec. 2019; PI: Prof. Hongwei Tan.)</li>
+<li>National Natural Science Foundation of China: Molecular Dynamics Simulation Study on the Fusion and Controllable Switching Mechanisms of Protein Molecular Conformation. (Grant No. 21573020; Award: $ 91,436.15; Jan. 2016 – Dec. 2019; PI: Prof. Guangju Chen.)</li>
+
+
+# __ORAL PRESTATION & POSTER__
+<li>Catalytic Mechanism of Protein Post-Translational Modification Enzymes and Molecular Dynamics Simulation of Folding Proteins. University of California San Francisco, 2023, Nov. 13.</li>
+<li>Development of Many-Body Polarizable Force Field for Metal/Halide Ions: An ALMOEDA Guide Approach. The Bay Area Theoretical Chemistry 2021, CA, USA 2021.</li>
+<li>Mechanistic insights of adenine promoted activity of low-molecule tyrosine phosphatase: An ONIOM study. Theoretical and Computational Biology: From Molecules to Systems Conference. Songshan Lake Material Laboratory Macao-Hong Kong Interdisciplinary Science Center. Guangzhou, China. 2019, Aug.</li>
+<li>Insights from molecular dynamics into the chemistry-structure relationships of calcium aluminosilicate glasses. Department of Electrical and Computer Engineering seminar. FL, USA, University of Miami, 2023, Mar. 24.</li>
+<li>Insights from molecular dynamics into the chemistry-structure relationships of calcium aluminosilicate glasses. Research day, FL, USA, University of Miami, 2023, Mar. 21.</li>
+<li>Investigation of the Detailed AMPylated Reaction Mechanism for the Huntingtin Yeast-Interaction Protein Enzyme HYPE. FL, USA, University of Miami, 2022, Feb. 24.</li>
+<li>Achieving Net-Zero Carbon Asphalt Pavements with Biochar: Integrating Experiments and Computations for Engineering and Environmental Optimization. FL, USA, University of Miami, 2024, Nov. 8.</li>
+
 # __Conference Abstract__
 
 |**Meili Liu**. 20XX. XXXXXX.|
-
-
-# __Books__
-
-|**Meili Liu**. 20XX. Chapter X, XXXXXX. Uncertainty, XXXXXXX|
-
 
