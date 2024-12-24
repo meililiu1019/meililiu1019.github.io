@@ -16,7 +16,7 @@ weight: 3
 
 <div>
 
-<img src="/assets/name-of-your-photo.jpg" hspace="10" style="width:150px; height:200px; float:left; margin: 10px;">
+<img src="/assets/name-of-your-photo.jpg" hspace="10" style="width:150px; height:210px; float:left; margin: 10px;">
 <h3 style="margin-bottom:0;"> <a href="/people/your-permalink/"> Your Name </a></h3>
 <h5 style="margin-top:0; margin-bottom:0;"> Your Position </h5>
 <a href="https://orcid.org/NUMBER" target="_blank"><i class="ai ai-orcid-square ai-lg"></i></a>
