@@ -45,8 +45,8 @@ weight: 3
 <a href="https://scholar.google.com/citations?user=Y9cxi3MAAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar-square ai-lg"></i></a>
 <a href="https://www.linkedin.com/in/meili-mandy-liu-207380236/" target="_blank"><i class="fab fab fa-linkedin fa-lg"></i></a>
 <a href="https://github.com/meililiu1019" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
-
-
+<br> <!-- 添加换行符 -->
+<br> <!-- 添加换行符 -->
 
 <h5 style="margin-top:0; margin-bottom:0;"> 2019.Sep-2021.Dec: Ph.D at Uni of California, Berkeley </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2016.Sep-2019.Sep: Ph.D at Beijing Normal Uni </h5>
