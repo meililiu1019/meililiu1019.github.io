@@ -49,6 +49,10 @@ weight: 3
 </div>
 <p style="clear: both;">
 
+<h5 style="margin-top:0; margin-bottom:0;"> 2019.Sep-2021.Dec: Ph.D at Uni of California, Berkeley </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> 2016.Sep-2019.Sep: Ph.D at Beijing Normal Uni </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> 2012.Sep-2016.Jul: B.S at Hunan Normal Uni </h5>
+
 <div>
   
 <strong>PhD students</strong>
